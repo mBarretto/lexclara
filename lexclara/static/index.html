@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LexClara</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header>
+  <div class="brand"><strong>LexClara</strong><span>editor agêntico de textos legislativos e comunicações oficiais</span></div>
+  <div class="toolbar">
+    <select id="example"></select>
+    <button id="btn-paste">Colar texto</button>
+    <button id="btn-renumber" title="Renumera os dispositivos conforme a LC 95/1998, art. 10">Renumerar</button>
+    <button id="btn-export">Exportar texto</button>
+  </div>
+</header>
+
+<main>
+  <section id="doc" aria-label="Documento"></section>
+  <aside id="panel" aria-label="Agentes">
+    <div class="empty">Selecione um bloco para ver as verificações e chamar os agentes.</div>
+  </aside>
+</main>
+
+<dialog id="paste-dialog">
+  <form method="dialog">
+    <h2>Colar texto</h2>
+    <label>Tipo de documento
+      <select id="paste-type">
+        <option value="ato_normativo">Ato normativo (projeto de lei, decreto, emenda)</option>
+        <option value="comunicacao">Comunicação oficial (despacho, notificação, exigência)</option>
+      </select>
+    </label>
+    <textarea id="paste-text" rows="18" placeholder="Cole aqui o texto"></textarea>
+    <div class="actions"><button value="cancel">Cancelar</button><button id="paste-ok" value="ok">Abrir</button></div>
+  </form>
+</dialog>
+
+<dialog id="export-dialog">
+  <form method="dialog">
+    <h2>Texto atual</h2>
+    <textarea id="export-text" rows="22" readonly></textarea>
+    <div class="actions"><button value="ok">Fechar</button></div>
+  </form>
+</dialog>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
