@@ -1,0 +1,74 @@
+{
+  "atomos": [
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O Município notificará previamente o usuário acerca do vencimento de licenças e alvarás.",
+      "dispositivo": "Art. 4º, caput e I",
+      "status": "preservado",
+      "evidencia": "Primeiro caso: quando sua licença ou seu alvará estiver perto de vencer.",
+      "comentario": "Mesmo sujeito (Município), mesma força (dever) e mesmo objeto."
+    },
+    {
+      "tipo": "prazo",
+      "enunciado": "A notificação sobre vencimento de licenças e alvarás deve ter antecedência mínima de 30 dias.",
+      "dispositivo": "Art. 4º, I",
+      "status": "preservado",
+      "evidencia": "Esse aviso deve ser feito pelo menos 30 dias antes do vencimento. A lei não diz se esses 30 dias contam a partir do envio ou do recebimento do aviso.",
+      "comentario": "O prazo mínimo foi mantido. A ressalva sobre o termo inicial (envio ou recebimento) aponta corretamente uma ambiguidade do texto oficial, sem escolher uma leitura."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O Município notificará previamente o usuário acerca de prazos de exigências em aberto.",
+      "dispositivo": "Art. 4º, caput e II",
+      "status": "preservado",
+      "evidencia": "Segundo caso: quando você tiver uma exigência ainda não cumprida e houver um prazo para cumpri-la.",
+      "comentario": "A expressão 'exigências em aberto' foi traduzida como 'exigência ainda não cumprida', sem perda de sentido. A falta de antecedência mínima foi corretamente informada como lacuna. O inciso II do texto oficial termina sem pontuação, o que é falha formal, não de conteúdo."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O Município notificará previamente o usuário acerca de recadastramento e prova de vida de aposentados e pensionistas do regime próprio de previdência.",
+      "dispositivo": "Art. 4º, caput e III",
+      "status": "preservado",
+      "evidencia": "Terceiro caso: quando houver recadastramento ou prova de vida, se você for aposentado ou pensionista do regime próprio de previdência.",
+      "comentario": "Objeto e público mantidos. A ausência de antecedência mínima foi informada como lacuna. Ressalva: o caput atribui o dever ao 'Município', e o art. 1º inclui entidades da administração indireta, como o IAPEN. O texto oficial não esclarece se a notificação do inciso III cabe ao Município ou ao IAPEN. A versão cidadã reproduz 'Município' sem apontar essa ambiguidade."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "A notificação de que trata o inciso I será enviada preferencialmente por meio eletrônico.",
+      "dispositivo": "Art. 4º, parágrafo único",
+      "status": "preservado",
+      "evidencia": "O aviso sobre licenças e alvarás deve ser enviado, de preferência, por meio eletrônico.",
+      "comentario": "A preferência foi mantida e restrita ao aviso de licenças e alvarás (inciso I), como no texto oficial."
+    },
+    {
+      "tipo": "direito",
+      "enunciado": "O usuário tem o direito de optar pelo recebimento da notificação do inciso I por via postal.",
+      "dispositivo": "Art. 4º, parágrafo único",
+      "status": "preservado",
+      "evidencia": "Mas você tem o direito de escolher receber esse aviso pelo correio. A lei não explica como fazer essa escolha.",
+      "comentario": "Direito preservado, com o alcance limitado ao aviso de licenças e alvarás. A observação de que a lei não define o procedimento de opção está correta."
+    },
+    {
+      "tipo": "remissao",
+      "enunciado": "A notificação do inciso I observará o disposto no § 1º do art. 3º: em destaque, o que deve ser feito, o prazo e as consequências do descumprimento.",
+      "dispositivo": "Art. 4º, parágrafo único, c/c art. 3º, § 1º",
+      "status": "preservado",
+      "evidencia": "Esse aviso também precisa seguir outra regra desta lei (artigo 3º, parágrafo 1º). Por essa regra, toda comunicação que obriga você a fazer algo deve mostrar, em destaque: o que você precisa fazer, qual é o prazo e o que acontece se você não fizer.",
+      "comentario": "A remissão foi mantida e o conteúdo do § 1º do art. 3º está descrito corretamente. Há ambiguidade no texto oficial: o § 1º do art. 3º vale para comunicações que impõem obrigação, e não está claro se o aviso de vencimento impõe obrigação ao usuário. A versão cidadã segue a letra do texto e não explicita essa dúvida."
+    },
+    {
+      "tipo": "definicao",
+      "enunciado": "O destinatário da notificação é o usuário: pessoa física ou jurídica que se beneficia ou utiliza, efetiva ou potencialmente, de serviço público municipal.",
+      "dispositivo": "Art. 4º, caput c/c art. 2º, III",
+      "status": "preservado",
+      "evidencia": "E as pessoas e empresas que usam serviços do Município",
+      "comentario": "A definição foi simplificada sem distorção relevante. A menção ao uso 'potencial' foi omitida, mas isso não altera o dever de notificar."
+    }
+  ],
+  "acrescimos": [
+    "Glossário: 'Regime próprio de previdência: Sistema de aposentadoria e pensão separado do INSS'. A explicação não consta do texto oficial. É correta em termos gerais e não induz a erro.",
+    "Glossário: 'Licença e alvará: Autorizações dadas pelo Município para realizar uma atividade'. É uma definição explicativa que não está no texto oficial.",
+    "Glossário: 'Meio eletrônico: Envio por computador, celular ou internet'. Os exemplos de meio eletrônico não constam do texto oficial. São ilustrativos e não criam obrigação."
+  ],
+  "veredito": "fiel_com_ressalvas"
+}

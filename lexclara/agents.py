@@ -183,14 +183,18 @@ def cidada(doc: Document, uid: str, objecoes: list[str] | None = None,
                     prompt=prompt, schema=VersaoCidada, effort="medium")
 
 
+def _items(xs: list[str]) -> str:
+    return "; ".join(x.strip().rstrip(".;") for x in xs) + "."
+
+
 def render_cidada(v: VersaoCidada) -> str:
     parts = [v.resumo, v.explicacao, f"Quem é afetado: {v.quem_e_afetado}"]
     if v.o_que_fazer:
-        parts.append("O que fazer: " + "; ".join(v.o_que_fazer))
+        parts.append("O que fazer: " + _items(v.o_que_fazer))
     if v.prazos:
-        parts.append("Prazos: " + "; ".join(v.prazos))
+        parts.append("Prazos: " + _items(v.prazos))
     if v.termos:
-        parts.append("Palavras: " + "; ".join(f"{t.termo}: {t.explicacao}" for t in v.termos))
+        parts.append("Palavras: " + _items([f"{t.termo}: {t.explicacao}" for t in v.termos]))
     return "\n".join(parts)
 
 

@@ -1,0 +1,31 @@
+{
+  "resumo": "Os órgãos e as entidades da administração municipal de Garça devem escrever as comunicações oficiais em linguagem simples, sem perder a precisão nem o sentido legal.",
+  "explicacao": "Essa regra vale também para o SAAE e o IAPEN, conforme o artigo 1º. O texto não diz o nome completo dessas siglas. Quem escreve deve seguir as técnicas do artigo 5º da Lei Federal nº 15.263, de 2025. O texto deve ser simples, mas continuar preciso e com o mesmo sentido legal. É proibido usar jargões. Também é proibido usar palavras estrangeiras quando existe uma palavra em português com o mesmo sentido. Não está claro se a condição de existir palavra em português vale só para as palavras estrangeiras ou também para os jargões. A lei não explica o que é jargão. O órgão competente deve oferecer um canal de atendimento para tirar dúvidas. O texto não diz qual órgão é esse. O texto fala em prazo de 10 dias, mas não está definido se é o prazo para criar o canal ou para responder às dúvidas. Também não diz se são dias corridos ou úteis, nem quando a contagem começa. Todo ano, a Secretaria Municipal de Administração deve publicar um relatório sobre o cumprimento desta lei. Quando a comunicação mandar você fazer alguma coisa, ela deve mostrar em destaque três informações: o que você deve fazer, o prazo e o que acontece se você não fizer. O parágrafo 2º diz que uma regra vale também para empresas contratadas e organizações sociais parceiras. Mas ele indica o parágrafo 1º do artigo 7º, e o artigo 7º desta lei não tem parágrafos. Por isso, ainda não está definido qual regra vale para essas empresas e organizações.",
+  "quem_e_afetado": "Os órgãos e as entidades da administração municipal de Garça, inclusive o SAAE e o IAPEN, que devem escrever as comunicações oficiais. O órgão competente, que deve oferecer o canal de atendimento. A Secretaria Municipal de Administração, que deve publicar o relatório anual. Os usuários, que recebem as comunicações. Empresas contratadas e organizações sociais parceiras também são citadas, mas ainda não está definido qual regra vale para elas.",
+  "o_que_fazer": [
+    "Se receber uma comunicação que manda você fazer algo, procure as informações em destaque: o que fazer, o prazo e o que acontece se não fizer.",
+    "Se tiver dúvida sobre uma comunicação oficial, você pode usar o canal de atendimento do órgão competente."
+  ],
+  "prazos": [
+    "10 dias: ligado ao canal de atendimento para dúvidas. Não está definido se é o prazo para criar o canal ou para responder às dúvidas, nem se são dias corridos ou úteis, nem quando a contagem começa.",
+    "Todo ano: a Secretaria Municipal de Administração deve publicar o relatório de cumprimento da lei."
+  ],
+  "termos": [
+    {
+      "termo": "Comunicação oficial",
+      "explicacao": "Segundo o artigo 2º desta lei: qualquer despacho, exigência, notificação, decisão ou outra mensagem enviada ao usuário de serviço público."
+    },
+    {
+      "termo": "Linguagem simples",
+      "explicacao": "Segundo o artigo 2º desta lei: conjunto de técnicas para passar informações de forma clara e objetiva. As palavras, a organização do texto e a aparência da mensagem (o leiaute) devem permitir que a pessoa encontre a informação, entenda e use com facilidade."
+    },
+    {
+      "termo": "Usuário",
+      "explicacao": "Segundo o artigo 2º desta lei: pessoa física ou jurídica que usa ou se beneficia de um serviço público da cidade, ou que pode vir a usar ou se beneficiar dele. Pessoa física é uma pessoa. Pessoa jurídica é uma organização, por exemplo uma empresa ou uma associação."
+    },
+    {
+      "termo": "Lei Federal nº 15.263, de 2025",
+      "explicacao": "Lei nacional citada nesta lei. O artigo 5º dela traz as técnicas que devem ser seguidas para escrever em linguagem simples."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "atomos": [
+    {
+      "tipo": "obrigacao",
+      "enunciado": "As comunicações oficiais deverão ser redigidas em linguagem simples.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Os órgãos e as entidades da administração municipal de Garça devem escrever as comunicações oficiais em linguagem simples",
+      "comentario": "O caput não nomeia o sujeito. A versão cidadã o atribui aos órgãos e entidades da administração, o que tem apoio no art. 1º. A força 'deverão' foi mantida como 'devem'."
+    },
+    {
+      "tipo": "remissao",
+      "enunciado": "Devem ser observadas as técnicas previstas no art. 5º da Lei Federal nº 15.263, de 2025.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Quem escreve deve seguir as técnicas do artigo 5º da Lei Federal nº 15.263, de 2025.",
+      "comentario": "A remissão foi mantida com a mesma força."
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "A linguagem simples não deve prejudicar a precisão técnica nem o sentido jurídico do ato.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "sem perder a precisão nem o sentido legal. [...] O texto deve ser simples, mas continuar preciso e com o mesmo sentido legal.",
+      "comentario": "A ressalva foi mantida."
+    },
+    {
+      "tipo": "proibicao",
+      "enunciado": "É vedada a utilização de jargões.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "É proibido usar jargões. [...] Não está claro se a condição de existir palavra em português vale só para as palavras estrangeiras ou também para os jargões.",
+      "comentario": "A proibição foi mantida. A versão cidadã aponta, corretamente, a ambiguidade sobre o alcance da condição 'quando houver equivalente' em vez de escolher uma leitura."
+    },
+    {
+      "tipo": "proibicao",
+      "enunciado": "É vedada a utilização de termos estrangeiros.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Também é proibido usar palavras estrangeiras quando existe uma palavra em português com o mesmo sentido.",
+      "comentario": "A proibição foi mantida junto com sua condição."
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "A vedação se aplica quando houver equivalente em língua portuguesa.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "quando existe uma palavra em português com o mesmo sentido",
+      "comentario": "A condição foi mantida, e a dúvida sobre seu alcance foi sinalizada."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O órgão competente deve disponibilizar canal de atendimento para esclarecimento de dúvidas.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "O órgão competente deve oferecer um canal de atendimento para tirar dúvidas. O texto não diz qual órgão é esse.",
+      "comentario": "O sujeito e a força foram mantidos. A versão cidadã aponta corretamente que o órgão competente não é identificado."
+    },
+    {
+      "tipo": "prazo",
+      "enunciado": "Prazo de 10 dias relacionado ao canal de atendimento para esclarecimento de dúvidas.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "O texto fala em prazo de 10 dias, mas não está definido se é o prazo para criar o canal ou para responder às dúvidas. Também não diz se são dias corridos ou úteis, nem quando a contagem começa.",
+      "comentario": "O prazo é ambíguo no texto oficial. A versão cidadã mantém o número e declara a ambiguidade sem escolher uma leitura."
+    },
+    {
+      "tipo": "competencia",
+      "enunciado": "A Secretaria Municipal de Administração fará publicar relatório de cumprimento desta Lei.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "a Secretaria Municipal de Administração deve publicar um relatório sobre o cumprimento desta lei.",
+      "comentario": "O sujeito e o objeto foram mantidos. O futuro imperativo 'fará publicar' foi corretamente vertido como 'deve publicar'."
+    },
+    {
+      "tipo": "prazo",
+      "enunciado": "O relatório deve ser publicado anualmente.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Todo ano, a Secretaria Municipal de Administração deve publicar um relatório",
+      "comentario": "A periodicidade foi mantida."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "Nas comunicações que impuserem obrigação ao usuário, constarão em destaque o que deve ser feito, o prazo e as consequências do descumprimento.",
+      "dispositivo": "Art. 3º, § 1º",
+      "status": "preservado",
+      "evidencia": "Quando a comunicação mandar você fazer alguma coisa, ela deve mostrar em destaque três informações: o que você deve fazer, o prazo e o que acontece se você não fizer.",
+      "comentario": "A condição, o destaque e os três elementos foram mantidos."
+    },
+    {
+      "tipo": "remissao",
+      "enunciado": "Remissão ao § 1º do art. 7º, dispositivo que não existe nesta Lei.",
+      "dispositivo": "Art. 3º, § 2º",
+      "status": "preservado",
+      "evidencia": "Mas ele indica o parágrafo 1º do artigo 7º, e o artigo 7º desta lei não tem parágrafos. Por isso, ainda não está definido qual regra vale para essas empresas e organizações.",
+      "comentario": "A versão cidadã aponta corretamente a remissão inexistente e não inventa qual regra seria aplicável."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "A regra referida no § 2º aplica-se às empresas contratadas e às organizações sociais parceiras.",
+      "dispositivo": "Art. 3º, § 2º",
+      "status": "preservado",
+      "evidencia": "O parágrafo 2º diz que uma regra vale também para empresas contratadas e organizações sociais parceiras.",
+      "comentario": "Os destinatários foram mantidos. O conteúdo da regra fica indeterminado, como no texto oficial."
+    }
+  ],
+  "acrescimos": [],
+  "veredito": "fiel"
+}

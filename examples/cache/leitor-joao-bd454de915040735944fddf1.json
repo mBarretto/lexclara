@@ -1,0 +1,43 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 2,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 2,
+      "escolha": -1,
+      "confianca": "baixa"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 0,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 4,
+      "escolha": -1,
+      "confianca": "baixa"
+    }
+  ],
+  "palavras_dificeis": [
+    "caput",
+    "sem prejuízo",
+    "precisão técnica e do sentido jurídico do ato",
+    "vedada",
+    "jargões",
+    "órgão competente",
+    "fará publicar",
+    "§",
+    "disposto no § 1º do art. 7º",
+    "organizações sociais parceiras",
+    "observadas as técnicas previstas no art. 5º da Lei Federal nº 15.263"
+  ],
+  "comentario": "O artigo principal é um parágrafo enorme, eu me perdi no meio. Entendi que, quando a Prefeitura me obriga a algo, tem que dizer em destaque o que fazer, o prazo e o que acontece se eu não cumprir. Palavra estrangeira entendi que não pode quando tem uma em português, mas tive que ler duas vezes. Os 10 dias não entendi: é para criar o canal, para me responder ou para eu mandar a dúvida? E contados de quando? O § 2º fala do 'art. 7º', que eu não tenho aqui, então não sei que regra vale para as empresas contratadas. Também não sei o que é 'caput'."
+}

@@ -1,0 +1,42 @@
+{
+  "resumo": "A Prefeitura deve avisar você antes de certos prazos: o fim de licenças e alvarás, as exigências que você ainda não cumpriu e o recadastramento e a prova de vida de aposentados e pensionistas dos servidores do Município.",
+  "explicacao": "A Prefeitura tem a obrigação de avisar você antes, em três casos. Primeiro caso: quando sua licença ou seu alvará estiver perto de vencer. Esse aviso deve chegar pelo menos 30 dias antes do vencimento. Segundo caso: quando você tiver uma exigência da Prefeitura ainda não cumprida e o prazo estiver correndo. Terceiro caso: quando for preciso fazer o recadastramento ou a prova de vida, se você for aposentado ou pensionista do sistema próprio de aposentadoria dos servidores públicos do Município. Nos casos dois e três, a lei não diz com quantos dias de antecedência o aviso deve chegar. Isso ainda não está definido. O aviso sobre licenças e alvarás deve ser enviado, de preferência, por meio eletrônico, como e-mail ou mensagem. Mas você tem o direito de pedir para receber esse aviso pelo correio. A lei não explica como fazer esse pedido. Esse aviso também precisa seguir outra regra desta lei (artigo 3º, parágrafo 1º). Por essa regra, toda comunicação que obriga você a fazer algo deve mostrar, em destaque: o que você precisa fazer, qual é o prazo e o que acontece se você não fizer.",
+  "quem_e_afetado": "A Prefeitura de Garça, que deve enviar os avisos. E as pessoas e empresas que usam serviços do Município: quem tem licença ou alvará, quem tem exigência da Prefeitura ainda não cumprida e os aposentados e pensionistas do sistema próprio de aposentadoria dos servidores públicos do Município.",
+  "o_que_fazer": [
+    "Se você tem licença ou alvará e prefere receber o aviso de vencimento pelo correio, você pode pedir isso à Prefeitura. A lei não diz como fazer esse pedido."
+  ],
+  "prazos": [
+    "Licenças e alvarás: o aviso deve chegar pelo menos 30 dias antes do vencimento.",
+    "Exigências não cumpridas e recadastramento ou prova de vida: o aviso deve chegar antes do prazo, mas a lei não diz com quantos dias de antecedência."
+  ],
+  "termos": [
+    {
+      "termo": "Notificar",
+      "explicacao": "Avisar oficialmente."
+    },
+    {
+      "termo": "Licença e alvará",
+      "explicacao": "Autorizações dadas pela Prefeitura para realizar uma atividade, como abrir um comércio ou fazer uma obra."
+    },
+    {
+      "termo": "Exigência em aberto",
+      "explicacao": "Algo que a Prefeitura pediu para você fazer ou entregar e que ainda não foi feito."
+    },
+    {
+      "termo": "Recadastramento",
+      "explicacao": "Atualização dos seus dados no cadastro."
+    },
+    {
+      "termo": "Prova de vida",
+      "explicacao": "Procedimento para confirmar que o aposentado ou pensionista está vivo, para continuar recebendo o benefício."
+    },
+    {
+      "termo": "Regime próprio de previdência",
+      "explicacao": "Sistema de aposentadoria e pensão próprio dos servidores públicos, diferente do INSS (Instituto Nacional do Seguro Social)."
+    },
+    {
+      "termo": "Via postal",
+      "explicacao": "Pelo correio, em carta."
+    }
+  ]
+}

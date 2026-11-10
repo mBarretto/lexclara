@@ -1,0 +1,56 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": -1,
+      "confianca": "baixa"
+    },
+    {
+      "pergunta": 1,
+      "escolha": -1,
+      "confianca": "baixa"
+    },
+    {
+      "pergunta": 2,
+      "escolha": -1,
+      "confianca": "baixa"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 2,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 4,
+      "escolha": -1,
+      "confianca": "baixa"
+    }
+  ],
+  "palavras_dificeis": [
+    "despacho",
+    "exigência",
+    "processo administrativo",
+    "interessado",
+    "requerente",
+    "alvará",
+    "epigrafado",
+    "ART/RRT",
+    "responsável técnico",
+    "divergência",
+    "projeto arquitetônico",
+    "matrícula do imóvel",
+    "o feito encontra-se sobrestado",
+    "notificado",
+    "contados da ciência deste",
+    "sanar",
+    "pendências supramencionadas",
+    "juntada",
+    "retificação",
+    "averbação",
+    "Cartório de Registro de Imóveis",
+    "sob pena de arquivamento",
+    "nos termos do art. 40",
+    "aplicada subsidiariamente"
+  ],
+  "comentario": "Eu li devagar, mas as frases são muito compridas e cheias de palavras difíceis. Entendi que é sobre um pedido para construir casa e que a pessoa que pediu tem que fazer alguma coisa em 30 dias. Não sei o que é ART/RRT, nem matrícula do imóvel, nem 'sobrestado'. Não entendi se está parado ou negado. Não sei se os 30 dias começam no dia da carta ou outro dia, porque 'ciência deste' eu não sei o que é. Também não entendi o que acontece se não fizer: 'sob pena de arquivamento' não sei se é multa ou o quê. E não entendi se tem que corrigir o projeto e ir no cartório, ou só uma das duas coisas."
+}

@@ -1,0 +1,53 @@
+{
+  "resumo": "Seu pedido de Alvará de Construção Residencial está parado por dois problemas. Você tem 30 dias para resolvê-los, ou o processo será arquivado.",
+  "explicacao": "Este despacho é do Setor de Aprovação de Projetos, em Garça. Ele tem data de 10 de novembro de 2026 e trata do seu pedido de Alvará de Construção Residencial. O Setor analisou o pedido e encontrou dois problemas. Primeiro problema: falta a ART/RRT do responsável técnico. Segundo problema: a área construída informada no projeto arquitetônico é diferente da área que consta na matrícula do imóvel. Por causa desses problemas, o processo está parado. Para resolver, você precisa entregar o documento que falta. Você também precisa resolver a diferença de área. O despacho indica dois caminhos para isso: corrigir o projeto ou fazer a averbação da área no Cartório de Registro de Imóveis. O despacho não diz qual das duas áreas está correta. Você tem 30 dias para resolver tudo. O prazo começa a contar quando você toma conhecimento deste despacho, e não na data do despacho. Se você não resolver no prazo, o processo será arquivado. O despacho se baseia no artigo 40 da Lei nº 9.784, de 29 de janeiro de 1999. O despacho diz que essa lei é aplicada de forma complementar, mas não diz a quais regras ela complementa. O despacho não diz se os 30 dias são corridos ou úteis. O despacho também não diz onde nem como entregar os documentos.",
+  "quem_e_afetado": "A pessoa que pediu o Alvará de Construção Residencial neste processo.",
+  "o_que_fazer": [
+    "Entregar a ART/RRT do responsável técnico, que está faltando.",
+    "Resolver a diferença entre a área construída do projeto e a área da matrícula do imóvel. Para isso, você pode corrigir o projeto ou fazer a averbação da área no Cartório de Registro de Imóveis.",
+    "Fazer tudo isso em até 30 dias, contados de quando você tomou conhecimento deste despacho."
+  ],
+  "prazos": [
+    "30 dias, contados de quando você toma conhecimento deste despacho. O texto não diz se são dias corridos ou úteis.",
+    "A data do despacho (10 de novembro de 2026) não é a data de início do prazo.",
+    "Se o prazo passar sem que os problemas sejam resolvidos, o processo será arquivado."
+  ],
+  "termos": [
+    {
+      "termo": "Alvará de Construção Residencial",
+      "explicacao": "É o documento que você pediu neste processo. O despacho não explica o que ele autoriza."
+    },
+    {
+      "termo": "ART/RRT",
+      "explicacao": "É o documento do responsável técnico que, segundo o despacho, está faltando. O despacho usa só a sigla e não escreve o nome completo. Também não explica qual dos dois deve ser entregue no seu caso."
+    },
+    {
+      "termo": "Responsável técnico",
+      "explicacao": "Termo usado no despacho. O despacho não diz quem é nem explica essa função."
+    },
+    {
+      "termo": "Matrícula do imóvel",
+      "explicacao": "Termo usado no despacho. Segundo o despacho, a área construída que consta nela é diferente da área do projeto. O despacho não explica o que é a matrícula."
+    },
+    {
+      "termo": "Averbação da área",
+      "explicacao": "Providência sobre a área do imóvel, feita no Cartório de Registro de Imóveis. É um dos dois caminhos que o despacho indica. O despacho não explica como fazer."
+    },
+    {
+      "termo": "Retificação do projeto",
+      "explicacao": "Correção do projeto arquitetônico."
+    },
+    {
+      "termo": "Sobrestado",
+      "explicacao": "Parado. O processo está parado por causa dos problemas encontrados."
+    },
+    {
+      "termo": "Arquivamento do processo",
+      "explicacao": "É a consequência que o despacho prevê se os problemas não forem resolvidos no prazo. O despacho não explica o que acontece depois do arquivamento."
+    },
+    {
+      "termo": "Aplicada subsidiariamente",
+      "explicacao": "Usada de forma complementar. O despacho não diz a quais regras a lei serve de complemento."
+    }
+  ]
+}

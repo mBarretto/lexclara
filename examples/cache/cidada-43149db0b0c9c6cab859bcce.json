@@ -1,0 +1,42 @@
+{
+  "resumo": "O Município de Garça deve avisar você antes de certos prazos: o vencimento de licenças e alvarás, os prazos de exigências ainda não cumpridas e o recadastramento e a prova de vida de aposentados e pensionistas do regime próprio de previdência.",
+  "explicacao": "O Município tem a obrigação de avisar você antes, em três casos. Primeiro caso: quando sua licença ou seu alvará estiver perto de vencer. Esse aviso deve ser feito pelo menos 30 dias antes do vencimento. A lei não diz se esses 30 dias contam a partir do envio ou do recebimento do aviso. Isso ainda não está definido. Segundo caso: quando você tiver uma exigência ainda não cumprida e houver um prazo para cumpri-la. Terceiro caso: quando houver recadastramento ou prova de vida, se você for aposentado ou pensionista do regime próprio de previdência. Nos casos dois e três, a lei não diz com quantos dias de antecedência o aviso deve ser feito. Isso ainda não está definido. O aviso sobre licenças e alvarás deve ser enviado, de preferência, por meio eletrônico. Mas você tem o direito de escolher receber esse aviso pelo correio. A lei não explica como fazer essa escolha. Esse aviso também precisa seguir outra regra desta lei (artigo 3º, parágrafo 1º). Por essa regra, toda comunicação que obriga você a fazer algo deve mostrar, em destaque: o que você precisa fazer, qual é o prazo e o que acontece se você não fizer.",
+  "quem_e_afetado": "O Município de Garça, que deve enviar os avisos. E as pessoas e empresas que usam serviços do Município: quem tem licença ou alvará, quem tem exigência ainda não cumprida e os aposentados e pensionistas do regime próprio de previdência.",
+  "o_que_fazer": [
+    "Se você tem licença ou alvará e prefere receber o aviso de vencimento pelo correio, você pode escolher essa opção. A lei não diz como fazer essa escolha."
+  ],
+  "prazos": [
+    "Licenças e alvarás: o aviso deve ser feito pelo menos 30 dias antes do vencimento. A lei não diz se esses 30 dias contam do envio ou do recebimento do aviso.",
+    "Exigências não cumpridas, recadastramento e prova de vida: o aviso deve ser feito antes, mas a lei não diz com quantos dias de antecedência."
+  ],
+  "termos": [
+    {
+      "termo": "Notificar",
+      "explicacao": "Avisar oficialmente."
+    },
+    {
+      "termo": "Exigência em aberto",
+      "explicacao": "Algo que foi pedido a você e que ainda não foi cumprido."
+    },
+    {
+      "termo": "Recadastramento",
+      "explicacao": "Atualização dos seus dados no cadastro."
+    },
+    {
+      "termo": "Prova de vida",
+      "explicacao": "Procedimento para confirmar que o aposentado ou pensionista está vivo."
+    },
+    {
+      "termo": "Regime próprio de previdência",
+      "explicacao": "Nome usado pela lei para o sistema de aposentadoria e pensão desses aposentados e pensionistas. Esta lei não explica o termo."
+    },
+    {
+      "termo": "Meio eletrônico",
+      "explicacao": "Forma digital de envio. A lei não diz qual meio eletrônico será usado."
+    },
+    {
+      "termo": "Via postal",
+      "explicacao": "Pelo correio."
+    }
+  ]
+}

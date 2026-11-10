@@ -1,0 +1,41 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 0,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 1,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 2,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 2,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 4,
+      "escolha": 1,
+      "confianca": "baixa"
+    }
+  ],
+  "palavras_dificeis": [
+    "alvarás",
+    "regime próprio de previdência",
+    "pensionistas",
+    "recadastramento",
+    "meio eletrônico",
+    "artigo 3º, parágrafo 1º",
+    "exigências",
+    "antecedência",
+    "vencimento"
+  ],
+  "comentario": "Entendi que a Prefeitura tem que me avisar antes, e que da licença é 30 dias antes. Mas o texto repete muito 'a lei não diz' e fiquei cansada. Não sei o que é alvará nem esse tal regime próprio de previdência, e não sei se sou disso ou do INSS. A parte do artigo 3º, parágrafo 1º eu pulei. Sobre o correio, achei que era só para a licença, mas não tenho certeza. E ninguém me diz como eu peço para receber pelo correio."
+}

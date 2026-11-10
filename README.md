@@ -6,7 +6,7 @@ LexClara helps the people who write a city's laws and letters (civil servants, c
 
 It is being built as the proposed solution in a **CPSI** (Contrato Público para Solução Inovadora, the Brazilian public procurement instrument for innovative solutions, LC 182/2021) for the municipality of **Garça, São Paulo**, and is designed to be reused by other municipalities.
 
-> Status: working MVP (November 2026). The deterministic layer, the web editor and the agent pipeline run end to end. The recorded demo run in `examples/demo_report.md` is not committed yet; see [Reproducible demo](#reproducible-demo).
+> Status: working MVP (November 2026). The deterministic layer, the web editor and the agent pipeline run end to end. A full recorded run with `claude-opus-5-5` is in [`examples/demo_report.md`](examples/demo_report.md) and can be replayed without an API key; see [Reproducible demo](#reproducible-demo).
 
 ---
 
@@ -103,6 +103,23 @@ Parágrafo único (of the new Art. 5º):  “§ 1º do art. 3º”  →  “§ 1
 ```
 
 The bill's Art. 3º is deliberately overloaded (a duty to write plainly, a ban on jargon, a support channel with a deadline, and an annual report, all in one sentence). No regular expression catches that; it is what the `tecnica` agent is for (LC 95, art. 11, III: one subject per article), and it is the first article the demo sends through the plain-version and comprehension agents.
+
+### What the agents did in the recorded run
+
+From [`examples/demo_report.md`](examples/demo_report.md), one run, model `claude-opus-5-5`:
+
+- **Drafting review.** On Art. 3º, `tecnica` found the four subjects in one sentence and proposed splitting them into a caput, paragraphs with incisos, and two new articles (3º-A, 3º-B). It also found an ambiguity the author never intended: whether "no prazo de 10 dias" is the deadline to *create* the support channel or to *answer* questions. It flagged this for the author and left the wording alone, because picking one reading would change the law. On the requirement letter, it rewrote the text to lead with the decision and to list the two things the citizen must do, and it left a placeholder where the letter fails to say where to deliver the documents.
+- **Fidelity loop.** Across the three units, the verifier extracted 8 to 13 normative propositions per unit. After the redrafts, none was altered or omitted. Its objections in early rounds were real: a summary that said the permit was stalled "because documents are missing", when one of the two problems was a mismatch of areas, and a glossary that narrowed "pessoa jurídica" to "empresa". The plain versions also say out loud what the official text leaves undefined: the 10-day deadline, the missing lead time for the notices in Art. 4º, II and III, and the broken reference "§ 1º do art. 7º".
+- **Comprehension.** Correct answers out of five, official text → plain version:
+
+  | Reader | Art. 3º | Art. 4º | Requirement letter |
+  |---|---|---|---|
+  | Dona Maria (68, four years of schooling) | 2 → 4 | 2 → 5 | 1 → 5 |
+  | Seu João (shopkeeper, high school) | 3 → 5 | 4 → 5 | 5 → 5 |
+  | Ana (new civil servant, college) | 4 → 5 | 5 → 5 | 5 → 5 |
+
+  The gap is largest for the reader the law most wants to reach, and the official texts are already readable for the college-educated reader. These are simulated readers on fictitious texts in a single run, so they show what the instrument measures, not evidence that it measures it correctly (see below).
+- **A weakness the run exposed.** The verifier counts every glossary definition not literally in the official text as an "unsupported addition", even when it is harmless ("prova de vida: procedure to confirm the retiree is alive"). For Art. 4º and the letter, the loop therefore ran all three rounds without a clean "fiel" verdict, although no normative proposition was lost. The next version will separate didactic explanations from normative additions.
 
 ## Quick start
 

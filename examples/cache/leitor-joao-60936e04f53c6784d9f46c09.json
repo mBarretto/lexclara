@@ -1,0 +1,44 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 0,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 4,
+      "escolha": 3,
+      "confianca": "media"
+    }
+  ],
+  "palavras_dificeis": [
+    "jargões",
+    "precisão nem o sentido legal",
+    "órgão competente",
+    "entidades da administração municipal",
+    "SAAE",
+    "IAPEN",
+    "organizações sociais parceiras",
+    "parágrafo 1º do artigo 7º",
+    "despacho",
+    "leiaute",
+    "pessoa jurídica",
+    "caput"
+  ],
+  "comentario": "Entendi o principal: se a Prefeitura me mandar fazer algo, tem que mostrar em destaque o que fazer, o prazo e o que acontece se eu não fizer. Mas fiquei perdido em várias partes. Não sei quem é o tal órgão competente nem como acho esse canal de atendimento. Os 10 dias ficaram sem explicação: não sei se é prazo para mim ou para eles. Também não sei o que são SAAE e IAPEN. A parte dos parágrafos e artigos que não existem eu não entendi direito, só entendi que ninguém sabe qual regra vale para as empresas. Também não sei o que é jargão."
+}

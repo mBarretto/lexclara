@@ -1,0 +1,41 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 0,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 4,
+      "escolha": 3,
+      "confianca": "alta"
+    }
+  ],
+  "palavras_dificeis": [
+    "SAAE",
+    "IAPEN",
+    "jargões",
+    "órgão competente",
+    "caput",
+    "parágrafo",
+    "organizações sociais",
+    "despacho",
+    "leiaute"
+  ],
+  "comentario": "Consegui responder tudo porque o próprio texto avisa onde ele é falho. O que me confundiu foi não saber o que são SAAE e IAPEN, nem qual é o 'órgão competente' que deve criar o canal de atendimento. Também não sei o que conta como jargão, já que a lei não explica. Na pergunta 2 aparece a palavra 'caput', que não está no texto e eu não conheço. Na pergunta 4 citam um '§ 1º do art. 3º' que o texto não menciona. Fiquei sem saber como usar o canal na prática."
+}

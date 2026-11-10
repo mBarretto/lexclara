@@ -1,0 +1,39 @@
+{
+  "resumo": "A Prefeitura e seus órgãos devem escrever para você de forma clara, com destaque para o que você precisa fazer, até quando, e o que acontece se não fizer.",
+  "explicacao": "Quando a Prefeitura e seus órgãos mandam uma comunicação oficial para você, devem usar linguagem simples. Eles devem seguir as técnicas do artigo 5º da Lei Federal nº 15.263, de 2025. O texto precisa ser simples, mas continuar correto e com o mesmo sentido legal. É proibido usar jargões. Também é proibido usar palavras estrangeiras quando existe uma palavra em português com o mesmo sentido. O texto não deixa claro se a condição de existir palavra em português vale só para as palavras estrangeiras ou também para os jargões. O órgão responsável deve oferecer um canal de atendimento para tirar suas dúvidas. O texto fala em prazo de 10 dias, mas não está definido se são 10 dias para criar o canal ou 10 dias para responder às dúvidas. Também não diz se são dias corridos ou dias úteis, nem a partir de quando se conta. Todo ano, a Secretaria Municipal de Administração deve publicar um relatório que mostra se esta lei está sendo cumprida. Se a comunicação mandar você fazer alguma coisa, ela deve mostrar em destaque três informações: o que você deve fazer, o prazo e o que acontece se você não fizer. O parágrafo 2º diz que uma regra vale também para empresas contratadas e organizações sociais parceiras. Mas ele indica o parágrafo 1º do artigo 7º, e o artigo 7º desta lei não tem parágrafos. Por isso, ainda não está definido qual regra vale para essas empresas e organizações.",
+  "quem_e_afetado": "Os órgãos e entidades da Prefeitura de Garça, que devem escrever as comunicações oficiais. A Secretaria Municipal de Administração, que deve publicar o relatório anual. As pessoas e empresas que usam os serviços públicos da cidade, que recebem essas comunicações. Empresas contratadas e organizações sociais parceiras também são citadas, mas ainda não está definido qual regra vale para elas.",
+  "o_que_fazer": [
+    "Se receber uma comunicação que manda você fazer algo, procure as informações em destaque: o que fazer, o prazo e o que acontece se não fizer.",
+    "Se tiver dúvida sobre uma comunicação oficial, você pode usar o canal de atendimento do órgão responsável."
+  ],
+  "prazos": [
+    "10 dias: ligado ao canal de atendimento para dúvidas. Não está definido se é o prazo para criar o canal ou para responder às dúvidas, nem se são dias corridos ou úteis, nem quando a contagem começa.",
+    "Todo ano: a Secretaria Municipal de Administração deve publicar o relatório de cumprimento da lei."
+  ],
+  "termos": [
+    {
+      "termo": "Comunicação oficial",
+      "explicacao": "Qualquer despacho, exigência, aviso, decisão ou outra mensagem que um órgão público manda para quem usa um serviço público."
+    },
+    {
+      "termo": "Linguagem simples",
+      "explicacao": "Jeito de escrever que ajuda a pessoa a encontrar a informação, entender e usar com facilidade."
+    },
+    {
+      "termo": "Jargão",
+      "explicacao": "Palavra ou expressão usada só por um grupo de profissionais, difícil para quem não é da área."
+    },
+    {
+      "termo": "Órgão competente",
+      "explicacao": "O setor público que tem a responsabilidade pelo assunto."
+    },
+    {
+      "termo": "Organização social parceira",
+      "explicacao": "Entidade sem fins lucrativos que trabalha junto com a Prefeitura em algum serviço."
+    },
+    {
+      "termo": "Lei Federal nº 15.263, de 2025",
+      "explicacao": "Lei nacional que criou a Política Nacional de Linguagem Simples. O artigo 5º dela lista técnicas para escrever de forma clara."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 0,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 1,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 4,
+      "escolha": 1,
+      "confianca": "media"
+    }
+  ],
+  "palavras_dificeis": [
+    "regime próprio de previdência",
+    "artigo 3º, parágrafo 1º",
+    "exigência em aberto",
+    "notificar"
+  ],
+  "comentario": "Entendi que a prefeitura tem que me avisar pelo menos 30 dias antes do alvará vencer, e que posso pedir o aviso pelo correio. Só não sei como faço esse pedido, porque o texto diz que a lei não explica. Fiquei na dúvida se a escolha do correio vale só para o aviso do alvará ou para os outros também. Pelo texto, parece que é só para o alvará. Esse 'artigo 3º, parágrafo 1º' não me diz nada. E 'regime próprio de previdência' continua sem explicação."
+}

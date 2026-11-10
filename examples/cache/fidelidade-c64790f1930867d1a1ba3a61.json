@@ -1,0 +1,98 @@
+{
+  "atomos": [
+    {
+      "tipo": "obrigacao",
+      "enunciado": "As comunicações oficiais deverão ser redigidas em linguagem simples.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Os órgãos e as entidades da administração municipal de Garça devem escrever as comunicações oficiais em linguagem simples.",
+      "comentario": "O sujeito (órgãos e entidades, inclusive SAAE e IAPEN) vem do art. 1º. A versão cidadã cita essa origem, então a atribuição é correta. A primeira frase aparece duplicada, o que é só redundância."
+    },
+    {
+      "tipo": "remissao",
+      "enunciado": "Devem ser observadas as técnicas previstas no art. 5º da Lei Federal nº 15.263, de 2025.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Eles devem seguir as técnicas do artigo 5º da Lei Federal nº 15.263, de 2025.",
+      "comentario": ""
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "A linguagem simples é aplicada sem prejuízo da precisão técnica e do sentido jurídico do ato.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "O texto deve ser simples, mas continuar preciso e com o mesmo sentido legal.",
+      "comentario": "A versão cidadã diz 'preciso' em vez de 'precisão técnica'. A simplificação é aceitável."
+    },
+    {
+      "tipo": "proibicao",
+      "enunciado": "É vedada a utilização de jargões, possivelmente apenas quando houver equivalente em língua portuguesa (redação ambígua).",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "É proibido usar jargões. [...] Não está claro se a condição de existir palavra em português vale só para as palavras estrangeiras ou também para os jargões.",
+      "comentario": "A ambiguidade de alcance da condição foi sinalizada corretamente, sem que uma leitura fosse escolhida."
+    },
+    {
+      "tipo": "proibicao",
+      "enunciado": "É vedada a utilização de termos estrangeiros quando houver equivalente em língua portuguesa.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Também é proibido usar palavras estrangeiras quando existe uma palavra em português com o mesmo sentido.",
+      "comentario": "A condição ('quando houver equivalente') foi mantida."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O órgão competente deve disponibilizar canal de atendimento para esclarecimento de dúvidas.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "O órgão competente deve oferecer um canal de atendimento para tirar dúvidas. O texto não diz qual órgão é esse.",
+      "comentario": "A indefinição do sujeito foi sinalizada corretamente."
+    },
+    {
+      "tipo": "prazo",
+      "enunciado": "Prazo de 10 dias relacionado ao canal de atendimento para esclarecimento de dúvidas (objeto, natureza e termo inicial do prazo indefinidos).",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "O texto fala em prazo de 10 dias, mas não está definido se é o prazo para criar o canal ou para responder às dúvidas. Também não diz se são dias corridos ou úteis, nem quando a contagem começa.",
+      "comentario": "O valor foi mantido. As ambiguidades reais do texto oficial foram expostas sem escolha de leitura."
+    },
+    {
+      "tipo": "competencia",
+      "enunciado": "A Secretaria Municipal de Administração fará publicar anualmente relatório de cumprimento desta Lei.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Todo ano, a Secretaria Municipal de Administração deve publicar um relatório sobre o cumprimento desta lei.",
+      "comentario": ""
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "A regra do § 1º aplica-se às comunicações que impuserem obrigação ao usuário.",
+      "dispositivo": "Art. 3º, § 1º",
+      "status": "preservado",
+      "evidencia": "Quando a comunicação mandar você fazer alguma coisa",
+      "comentario": ""
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "Nessas comunicações constarão, em destaque, o que deve ser feito, o prazo e as consequências do descumprimento.",
+      "dispositivo": "Art. 3º, § 1º",
+      "status": "preservado",
+      "evidencia": "ela deve mostrar em destaque três informações: o que você deve fazer, o prazo e o que acontece se você não fizer.",
+      "comentario": "Os três elementos e a exigência de destaque foram mantidos."
+    },
+    {
+      "tipo": "remissao",
+      "enunciado": "O disposto no § 1º do art. 7º aplica-se às empresas contratadas e às organizações sociais parceiras.",
+      "dispositivo": "Art. 3º, § 2º",
+      "status": "preservado",
+      "evidencia": "Mas ele indica o parágrafo 1º do artigo 7º, e o artigo 7º desta lei não tem parágrafos. Por isso, ainda não está definido qual regra vale para essas empresas e organizações.",
+      "comentario": "A remissão quebrada foi sinalizada corretamente. O art. 7º do documento não tem parágrafos. A versão cidadã não presumiu qual regra seria a pretendida."
+    }
+  ],
+  "acrescimos": [
+    "Glossário, 'Usuário': 'pessoa ou empresa que usa ou pode usar um serviço público da cidade'. O art. 2º, III diz 'pessoa física ou jurídica'. 'Empresa' estreita o conceito, pois pessoa jurídica inclui também associações, entidades e outras. A versão cidadã também omite 'se beneficia'.",
+    "Glossário, 'Linguagem simples': omite que as técnicas abrangem palavras, estrutura e leiaute da mensagem (art. 2º, I). É uma simplificação menor.",
+    "Repetição da primeira frase ('Os órgãos e as entidades... devem escrever as comunicações oficiais em linguagem simples'). É redundância sem efeito jurídico, mas prejudica a leitura."
+  ],
+  "veredito": "fiel_com_ressalvas"
+}

@@ -1,0 +1,83 @@
+{
+  "atomos": [
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O Município notificará previamente o usuário acerca do vencimento de licenças e alvarás.",
+      "dispositivo": "Art. 4º, caput, I",
+      "status": "preservado",
+      "evidencia": "A Prefeitura tem a obrigação de avisar você antes, em três casos. Primeiro caso: quando sua licença ou seu alvará estiver perto de vencer.",
+      "comentario": "A força obrigatória ('notificará' → 'tem a obrigação de avisar') foi mantida. O sujeito 'Município' virou 'Prefeitura'. Como o art. 1º alcança também a administração indireta, a troca é aceitável na linguagem comum, mas estreita um pouco o sujeito."
+    },
+    {
+      "tipo": "prazo",
+      "enunciado": "A notificação sobre vencimento de licenças e alvarás deve ocorrer com antecedência mínima de 30 dias.",
+      "dispositivo": "Art. 4º, I",
+      "status": "preservado",
+      "evidencia": "Esse aviso deve chegar pelo menos 30 dias antes do vencimento.",
+      "comentario": "O número de dias e o caráter mínimo estão corretos. Ressalva: o texto oficial não diz se os 30 dias se contam do envio ou do recebimento. A versão cidadã escolheu o recebimento ('deve chegar') em vez de apontar a ambiguidade."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O Município notificará previamente o usuário acerca de prazos de exigências em aberto.",
+      "dispositivo": "Art. 4º, caput, II",
+      "status": "preservado",
+      "evidencia": "Segundo caso: quando você tiver uma exigência da Prefeitura ainda não cumprida e o prazo estiver correndo.",
+      "comentario": "O sentido está mantido. A expressão 'e o prazo estiver correndo' é uma explicitação razoável de 'prazos de exigências em aberto'. O inciso II do texto oficial termina sem pontuação, o que é falha de redação, mas não muda o sentido."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O Município notificará previamente o usuário acerca de recadastramento e prova de vida de aposentados e pensionistas do regime próprio de previdência.",
+      "dispositivo": "Art. 4º, caput, III",
+      "status": "preservado",
+      "evidencia": "Terceiro caso: quando for preciso fazer o recadastramento ou a prova de vida, se você for aposentado ou pensionista do sistema próprio de aposentadoria dos servidores públicos do Município.",
+      "comentario": "O texto oficial diz apenas 'regime próprio de previdência'. A versão cidadã especifica que é o regime dos servidores do Município. É a leitura plausível em uma lei municipal, mas não está escrito no texto."
+    },
+    {
+      "tipo": "prazo",
+      "enunciado": "Para os incisos II e III não há antecedência mínima definida; exige-se apenas que a notificação seja prévia.",
+      "dispositivo": "Art. 4º, II e III",
+      "status": "preservado",
+      "evidencia": "Nos casos dois e três, a lei não diz com quantos dias de antecedência o aviso deve chegar. Isso ainda não está definido.",
+      "comentario": "A versão cidadã aponta corretamente a lacuna, sem inventar prazo."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "A notificação do inciso I será enviada preferencialmente por meio eletrônico.",
+      "dispositivo": "Art. 4º, parágrafo único",
+      "status": "preservado",
+      "evidencia": "O aviso sobre licenças e alvarás deve ser enviado, de preferência, por meio eletrônico, como e-mail ou mensagem.",
+      "comentario": "A força preferencial e a restrição ao inciso I foram mantidas. Os exemplos 'e-mail ou mensagem' não constam do texto oficial."
+    },
+    {
+      "tipo": "direito",
+      "enunciado": "O usuário tem o direito de optar pelo recebimento da notificação do inciso I por via postal.",
+      "dispositivo": "Art. 4º, parágrafo único",
+      "status": "preservado",
+      "evidencia": "Mas você tem o direito de pedir para receber esse aviso pelo correio. A lei não explica como fazer esse pedido.",
+      "comentario": "O direito foi mantido, e a versão aponta corretamente que a lei não regula a forma do pedido. 'Pedir' é um pouco mais fraco que 'optar', mas, como vem com 'tem o direito', não induz a erro relevante."
+    },
+    {
+      "tipo": "remissao",
+      "enunciado": "A notificação do inciso I deve observar o disposto no § 1º do art. 3º.",
+      "dispositivo": "Art. 4º, parágrafo único",
+      "status": "preservado",
+      "evidencia": "Esse aviso também precisa seguir outra regra desta lei (artigo 3º, parágrafo 1º). Por essa regra, toda comunicação que obriga você a fazer algo deve mostrar, em destaque: o que você precisa fazer, qual é o prazo e o que acontece se você não fizer.",
+      "comentario": "O conteúdo do § 1º do art. 3º foi reproduzido corretamente, inclusive a condição de que a comunicação imponha obrigação ao usuário. A remissão está restrita ao aviso do inciso I, como no texto oficial."
+    },
+    {
+      "tipo": "competencia",
+      "enunciado": "Cabe ao Município expedir as notificações previstas no art. 4º.",
+      "dispositivo": "Art. 4º, caput",
+      "status": "preservado",
+      "evidencia": "Quem é afetado: A Prefeitura de Garça, que deve enviar os avisos.",
+      "comentario": "'Município' virou 'Prefeitura'. O texto não define qual órgão ou entidade (por exemplo, o IAPEN, no caso do inciso III) executa cada notificação. A versão não aponta essa indefinição."
+    }
+  ],
+  "acrescimos": [
+    "'Esse aviso deve chegar pelo menos 30 dias antes': o texto oficial não define se a antecedência se conta do envio ou do recebimento. A versão escolhe uma leitura em vez de apontar a ambiguidade.",
+    "Exemplos de meio eletrônico ('como e-mail ou mensagem') não constam do texto oficial.",
+    "A especificação de que o regime próprio é 'dos servidores públicos do Município' não está expressa no inciso III.",
+    "No glossário, os exemplos de licença e alvará ('abrir um comércio ou fazer uma obra') e a finalidade da prova de vida ('para continuar recebendo o benefício') são explicações que não estão no texto oficial. Têm caráter didático e não criam obrigação."
+  ],
+  "veredito": "fiel_com_ressalvas"
+}

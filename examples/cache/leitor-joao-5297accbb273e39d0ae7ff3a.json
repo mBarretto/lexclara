@@ -1,0 +1,48 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 1,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 2,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 0,
+      "confianca": "baixa"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 4,
+      "escolha": 1,
+      "confianca": "alta"
+    }
+  ],
+  "palavras_dificeis": [
+    "epigrafado",
+    "ART/RRT",
+    "responsável técnico",
+    "matrícula do imóvel",
+    "o feito",
+    "sobrestado",
+    "ciência deste",
+    "sanar",
+    "supramencionadas",
+    "juntada",
+    "retificação",
+    "averbação",
+    "sob pena de",
+    "arquivamento",
+    "aplicada subsidiariamente",
+    "art. 40 da Lei nº 9.784"
+  ],
+  "comentario": "Entendi que tenho 30 dias para mandar o que falta, senão arquivam meu pedido. Mas não sei o que é ART/RRT nem onde consigo isso. Não ficou claro se o prazo começa na data do papel ou quando eu recebi; \"ciência deste\" eu imagino que seja quando fico sabendo. \"Sobrestado\" eu não sabia, deduzi que é parado. Também não entendi bem a \"averbação\": acho que posso arrumar o projeto ou ir no cartório, mas não tenho certeza se basta uma coisa só."
+}

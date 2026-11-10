@@ -1,0 +1,54 @@
+{
+  "problemas": [
+    {
+      "regra": "LC 95/1998, art. 11, III, b",
+      "trecho": "devendo ainda o órgão competente disponibilizar canal de atendimento para esclarecimento de dúvidas no prazo de 10 dias, e a Secretaria Municipal de Administração fará publicar anualmente relatório de cumprimento desta Lei",
+      "problema": "O caput trata de quatro assuntos diferentes: o dever de redigir em linguagem simples, a proibição de jargões e termos estrangeiros, o canal de atendimento para dúvidas e o relatório anual de cumprimento da Lei inteira. O relatório anual nem se limita às comunicações oficiais, que são o assunto do artigo.",
+      "sugestao": "Manter no caput só a norma geral sobre linguagem simples. Levar a proibição para um parágrafo e criar artigos próprios para o canal de atendimento (Art. 3º-A) e para o relatório anual (Art. 3º-B)."
+    },
+    {
+      "regra": "LC 95/1998, art. 11, I, b",
+      "trecho": "As comunicações oficiais deverão ser redigidas em linguagem simples, observadas as técnicas previstas no art. 5º da Lei Federal nº 15.263, de 2025, sem prejuízo da precisão técnica e do sentido jurídico do ato, sendo vedada a utilização de jargões",
+      "problema": "O caput é uma única frase muito longa, com orações encadeadas por gerúndio ('sendo vedada', 'devendo ainda'). A frase não é curta nem concisa, e o leitor tem dificuldade para separar cada comando.",
+      "sugestao": "Dividir em frases curtas, uma para cada comando, sem encadeamento por gerúndio."
+    },
+    {
+      "regra": "LC 95/1998, art. 11, I, d",
+      "trecho": "deverão ser redigidas",
+      "problema": "O caput mistura formas verbais: 'deverão ser redigidas', 'sendo vedada', 'devendo ainda', 'fará publicar'. Isso fere a uniformidade do tempo verbal.",
+      "sugestao": "Usar o futuro simples do presente de modo uniforme: 'serão redigidas', 'será vedada', 'disponibilizará', 'publicará'."
+    },
+    {
+      "regra": "LC 95/1998, art. 11, I, e",
+      "trecho": "fará publicar",
+      "problema": "A construção causativa 'fará publicar' é arcaica e rebuscada, sem ganho de sentido. Ela atribui à Secretaria a responsabilidade pela publicação.",
+      "sugestao": "Substituir por 'publicará'."
+    },
+    {
+      "regra": "LC 95/1998, art. 11, II, b",
+      "trecho": "disponibilizar canal de atendimento para esclarecimento de dúvidas no prazo de 10 dias",
+      "problema": "A expressão tem duplo sentido. O prazo de 10 dias pode se referir à criação do canal (contado de quando?) ou à resposta às dúvidas do usuário (contado do pedido?). Também não se diz se os dias são úteis ou corridos. Além disso, 'órgão competente' não identifica qual órgão deve criar o canal.",
+      "sugestao": "O autor deve esclarecer a que se refere o prazo, qual é o termo inicial, se os dias são úteis ou corridos e qual órgão é o responsável. A redação sugerida mantém o texto original, porque escolher uma leitura alteraria o sentido."
+    },
+    {
+      "regra": "LC 95/1998, art. 11, II, b",
+      "trecho": "vedada a utilização de jargões e de termos estrangeiros quando houver equivalente em língua portuguesa",
+      "problema": "O alcance da ressalva é ambíguo. 'Quando houver equivalente em língua portuguesa' pode valer só para os termos estrangeiros ou também para os jargões.",
+      "sugestao": "O autor deve definir o alcance. Por exemplo: 'de jargões, e de termos estrangeiros quando houver equivalente em língua portuguesa' (ressalva só para os estrangeiros) ou 'de jargões e de termos estrangeiros, quando houver equivalente em língua portuguesa para qualquer deles'. A redação sugerida mantém a formulação original."
+    },
+    {
+      "regra": "LC 95/1998, art. 11, II, a",
+      "trecho": "Nas comunicações que impuserem obrigação ao usuário",
+      "problema": "O § 1º usa 'comunicações', mas o termo definido no art. 2º, II, e usado no caput é 'comunicações oficiais'. A mesma ideia deve ter a mesma expressão.",
+      "sugestao": "Usar 'comunicações oficiais'."
+    },
+    {
+      "regra": "LC 95/1998, art. 11, I, c, e III, d",
+      "trecho": "constarão, em destaque, o que deve ser feito, o prazo e as consequências do descumprimento",
+      "problema": "A frase está em ordem inversa, com o verbo antes do sujeito. Os elementos obrigatórios aparecem em sequência corrida, quando a enumeração deveria ir em incisos.",
+      "sugestao": "Usar ordem direta e incisos: 'As comunicações oficiais que impuserem obrigação ao usuário informarão, em destaque: I – o que deve ser feito; II – o prazo; III – as consequências do descumprimento.'"
+    }
+  ],
+  "redacao_sugerida": "Art. 3º As comunicações oficiais serão redigidas em linguagem simples, observadas as técnicas previstas no art. 5º da Lei Federal nº 15.263, de 2025, sem prejuízo da precisão técnica e do sentido jurídico do ato.\n§ 1º As comunicações oficiais que impuserem obrigação ao usuário informarão, em destaque:\nI – o que deve ser feito;\nII – o prazo;\nIII – as consequências do descumprimento.\n§ 2º Nas comunicações oficiais, será vedada a utilização de jargões e de termos estrangeiros quando houver equivalente em língua portuguesa.\n§ 3º O disposto no § 1º do art. 7º aplica-se às empresas contratadas e às organizações sociais parceiras.\nArt. 3º-A O órgão competente disponibilizará canal de atendimento para esclarecimento de dúvidas no prazo de 10 dias.\nArt. 3º-B A Secretaria Municipal de Administração publicará anualmente relatório de cumprimento desta Lei.",
+  "observacao": "O § 1º ficou na mesma posição, para não quebrar a remissão do parágrafo único do art. 4º. O antigo § 2º passou a ser o § 3º com o texto intacto; a remissão dele ao art. 7º fica para o agente de remissões. Antes de aprovar, defina a que se refere o prazo de 10 dias, qual é o órgão competente e qual é o alcance da ressalva sobre jargões; a redação sugerida mantém essas ambiguidades do original."
+}

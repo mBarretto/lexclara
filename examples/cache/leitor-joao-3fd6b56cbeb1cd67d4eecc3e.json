@@ -1,0 +1,40 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 1,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 0,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 4,
+      "escolha": 1,
+      "confianca": "alta"
+    }
+  ],
+  "palavras_dificeis": [
+    "ART/RRT",
+    "averbação",
+    "matrícula do imóvel",
+    "sobrestado",
+    "aplicada subsidiariamente",
+    "arquivado",
+    "despacho",
+    "responsável técnico"
+  ],
+  "comentario": "Entendi que tenho dois problemas para resolver e 30 dias a partir de quando fiquei sabendo. O que me deixou perdido: não sei o que é ART ou RRT nem qual entregar, nem quem é esse responsável técnico. Também não sei onde nem como entregar os papéis, e se os 30 dias contam sábado e domingo. Sobre a área, entendi que posso corrigir o projeto ou ir no cartório, mas não tenho certeza se uma coisa só basta e não sei qual área está certa. E arquivado quer dizer que perco o pedido? Isso não ficou claro."
+}

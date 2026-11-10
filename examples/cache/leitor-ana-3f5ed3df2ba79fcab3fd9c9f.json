@@ -1,0 +1,40 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 2,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 0,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 4,
+      "escolha": -1,
+      "confianca": "baixa"
+    }
+  ],
+  "palavras_dificeis": [
+    "sem prejuízo",
+    "sentido jurídico do ato",
+    "vedada",
+    "fará publicar",
+    "caput",
+    "organizações sociais",
+    "art. 5º da Lei Federal nº 15.263",
+    "§ 1º do art. 7º"
+  ],
+  "comentario": "O caput é uma frase enorme que mistura várias regras, e precisei reler. Não entendi se os 10 dias são para o órgão criar o canal ou para responder às dúvidas, nem a partir de quando contam. O § 2º manda aplicar o § 1º do art. 7º, mas eu só recebi o art. 3º, então não sei que regra é essa nem se tem a ver com o § 1º daqui. Também não sei o que diz o art. 5º da lei federal citada, então não sei quais são essas 'técnicas'."
+}

@@ -1,0 +1,56 @@
+{
+  "resumo": "A Prefeitura parou a análise do seu pedido de Alvará de Construção Residencial porque faltam documentos. Você tem 30 dias para resolver isso, ou o processo será arquivado.",
+  "explicacao": "Você pediu à Prefeitura um Alvará de Construção Residencial. O Setor de Aprovação de Projetos analisou o pedido e encontrou dois problemas. Primeiro problema: falta a ART ou o RRT do profissional responsável pela obra. Segundo problema: o tamanho da área construída no projeto é diferente do tamanho que aparece na matrícula do imóvel. Por causa desses problemas, a análise do seu pedido está parada. Para resolver, você precisa entregar o documento que falta. Você também precisa acertar a diferença de área. Isso pode ser feito de dois jeitos: corrigir o projeto ou registrar a área certa no Cartório de Registro de Imóveis. Você tem 30 dias para resolver tudo. O prazo começa a contar quando você recebe ou toma conhecimento deste aviso. Se você não resolver no prazo, a Prefeitura vai arquivar o processo. A Prefeitura se baseia no artigo 40 da Lei federal nº 9.784, de 1999. Essa lei é usada como complemento às regras do Município. O despacho não diz se os 30 dias são corridos ou úteis. O despacho também não diz onde nem como entregar os documentos.",
+  "quem_e_afetado": "A pessoa que pediu à Prefeitura de Garça o Alvará de Construção Residencial neste processo.",
+  "o_que_fazer": [
+    "Entregar a ART ou o RRT do profissional responsável pela obra.",
+    "Acertar a diferença entre a área do projeto e a área da matrícula do imóvel. Você pode corrigir o projeto ou registrar a área certa no Cartório de Registro de Imóveis.",
+    "Fazer tudo isso em até 30 dias, contados de quando você recebeu ou tomou conhecimento deste aviso."
+  ],
+  "prazos": [
+    "30 dias, contados de quando você recebe ou toma conhecimento deste aviso. O texto não diz se são dias corridos ou úteis.",
+    "Se o prazo passar sem solução, o processo será arquivado."
+  ],
+  "termos": [
+    {
+      "termo": "Alvará de Construção",
+      "explicacao": "Autorização da Prefeitura para construir."
+    },
+    {
+      "termo": "ART (Anotação de Responsabilidade Técnica)",
+      "explicacao": "Documento que mostra qual engenheiro é o responsável técnico pela obra."
+    },
+    {
+      "termo": "RRT (Registro de Responsabilidade Técnica)",
+      "explicacao": "Documento que mostra qual arquiteto é o responsável técnico pela obra."
+    },
+    {
+      "termo": "Responsável técnico",
+      "explicacao": "Profissional que responde pelo projeto e pela obra."
+    },
+    {
+      "termo": "Matrícula do imóvel",
+      "explicacao": "Registro oficial do imóvel no Cartório de Registro de Imóveis, com os dados do imóvel."
+    },
+    {
+      "termo": "Averbação",
+      "explicacao": "Anotar uma informação nova ou corrigida na matrícula do imóvel, no Cartório."
+    },
+    {
+      "termo": "Retificação do projeto",
+      "explicacao": "Correção do projeto da construção."
+    },
+    {
+      "termo": "Sobrestado",
+      "explicacao": "Parado. A Prefeitura não continua a análise até você resolver as pendências."
+    },
+    {
+      "termo": "Arquivamento do processo",
+      "explicacao": "O processo é encerrado e guardado, sem continuar a análise do seu pedido."
+    },
+    {
+      "termo": "Despacho",
+      "explicacao": "Decisão ou aviso escrito da Prefeitura dentro de um processo."
+    }
+  ]
+}

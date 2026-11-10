@@ -1,0 +1,106 @@
+{
+  "atomos": [
+    {
+      "tipo": "competencia",
+      "enunciado": "O Setor de Aprovação de Projetos analisou o requerimento e expede o despacho de exigência.",
+      "dispositivo": "Fecho (Garça, 10 de novembro de 2026. Setor de Aprovação de Projetos.)",
+      "status": "preservado",
+      "evidencia": "O Setor de Aprovação de Projetos analisou o pedido e encontrou dois problemas.",
+      "comentario": "A versão cidadã identifica corretamente o órgão que expediu o despacho."
+    },
+    {
+      "tipo": "definicao",
+      "enunciado": "O interessado é o requerente do Alvará de Construção Residencial.",
+      "dispositivo": "Interessado",
+      "status": "preservado",
+      "evidencia": "Quem é afetado: A pessoa que pediu o Alvará de Construção Residencial neste processo.",
+      "comentario": ""
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "Na análise, verificou-se a ausência da ART/RRT do responsável técnico.",
+      "dispositivo": "Parágrafo 1º do despacho",
+      "status": "preservado",
+      "evidencia": "Primeiro problema: falta a ART/RRT do responsável técnico.",
+      "comentario": ""
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "Na análise, verificou-se divergência entre a área construída declarada no projeto arquitetônico e a área constante da matrícula do imóvel.",
+      "dispositivo": "Parágrafo 1º do despacho",
+      "status": "preservado",
+      "evidencia": "Segundo problema: a área construída informada no projeto arquitetônico é diferente da área que aparece na matrícula do imóvel.",
+      "comentario": ""
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "Em razão das pendências, o processo encontra-se sobrestado (suspenso).",
+      "dispositivo": "Parágrafo 1º do despacho",
+      "status": "preservado",
+      "evidencia": "Por causa desses problemas, a análise do seu pedido está parada.",
+      "comentario": "Traduzir 'sobrestado' por 'parado' é uma simplificação adequada."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O interessado fica notificado e deve sanar as pendências apontadas.",
+      "dispositivo": "Parágrafo 2º do despacho",
+      "status": "preservado",
+      "evidencia": "Você tem 30 dias para resolver tudo.",
+      "comentario": ""
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "Para sanar as pendências, o interessado deve juntar a documentação faltante.",
+      "dispositivo": "Parágrafo 2º do despacho",
+      "status": "preservado",
+      "evidencia": "Para resolver, você precisa entregar o documento que falta. / O que fazer: Entregar a ART/RRT do responsável técnico, que está faltando",
+      "comentario": "O texto oficial diz 'documentação faltante'. A única ausência apontada é a ART/RRT, então a identificação feita pela versão cidadã é sustentada."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "Para sanar a divergência de área, o interessado deve retificar o projeto ou averbar a área no Cartório de Registro de Imóveis (alternativas).",
+      "dispositivo": "Parágrafo 2º do despacho",
+      "status": "preservado",
+      "evidencia": "Você também precisa resolver a diferença de área. O despacho indica dois caminhos: corrigir o projeto ou fazer a averbação da área no Cartório de Registro de Imóveis.",
+      "comentario": "A frase oficial ('juntada da documentação faltante e retificação do projeto ou averbação da área') poderia, em tese, ser agrupada de outra forma. Mesmo assim, a leitura adotada é a única coerente, porque a averbação não supre a falta da ART/RRT. A alternativa entre os dois caminhos foi mantida."
+    },
+    {
+      "tipo": "prazo",
+      "enunciado": "O prazo para sanar as pendências é de 30 dias, contados da ciência do despacho.",
+      "dispositivo": "Parágrafo 2º do despacho",
+      "status": "preservado",
+      "evidencia": "Você tem 30 dias para resolver tudo. O prazo começa a contar quando você toma conhecimento deste aviso.",
+      "comentario": "A versão cidadã também informa, corretamente, que o despacho não diz se os dias são corridos ou úteis. Ela aponta a omissão sem escolher uma leitura."
+    },
+    {
+      "tipo": "sancao",
+      "enunciado": "Se as pendências não forem sanadas no prazo, o processo será arquivado.",
+      "dispositivo": "Parágrafo 2º do despacho",
+      "status": "preservado",
+      "evidencia": "Se você não resolver no prazo, o processo será arquivado.",
+      "comentario": ""
+    },
+    {
+      "tipo": "remissao",
+      "enunciado": "A exigência e o arquivamento fundamentam-se no art. 40 da Lei nº 9.784, de 29 de janeiro de 1999, aplicada subsidiariamente.",
+      "dispositivo": "Parágrafo 2º do despacho",
+      "status": "preservado",
+      "evidencia": "O despacho se baseia no artigo 40 da Lei nº 9.784, de 29 de janeiro de 1999. O despacho diz que essa lei é aplicada de forma complementar, mas não diz a quais regras ela complementa.",
+      "comentario": "A versão cidadã registra corretamente que o despacho não identifica a norma principal."
+    },
+    {
+      "tipo": "definicao",
+      "enunciado": "O despacho é datado de 10 de novembro de 2026, em Garça.",
+      "dispositivo": "Fecho",
+      "status": "omitido",
+      "evidencia": "",
+      "comentario": "A data do despacho não aparece na versão cidadã. A omissão não altera o prazo, que conta da ciência e não da data, mas a data é uma informação útil de identificação."
+    }
+  ],
+  "acrescimos": [
+    "Responsável técnico definido como 'o profissional indicado como responsável técnico no seu pedido': o texto oficial não diz que o responsável técnico foi indicado no pedido. É uma suposição de baixo risco.",
+    "'Alvará de Construção: Autorização da Prefeitura para construir' e 'Você pediu à Prefeitura de Garça': são explicações de contexto que o despacho não traz expressamente, embora sejam compatíveis com ele.",
+    "'Averbação da área: Anotar a área na matrícula do imóvel' e 'Matrícula do imóvel: ... onde aparecem os dados do imóvel, como a área construída': são definições explicativas sem base no texto oficial. São compatíveis com ele e não induzem a erro."
+  ],
+  "veredito": "fiel_com_ressalvas"
+}

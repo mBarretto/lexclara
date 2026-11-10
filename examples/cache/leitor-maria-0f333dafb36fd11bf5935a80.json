@@ -1,0 +1,52 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 2,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 2,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 0,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 4,
+      "escolha": -1,
+      "confianca": "baixa"
+    }
+  ],
+  "palavras_dificeis": [
+    "órgãos e entidades",
+    "administração municipal",
+    "SAAE",
+    "IAPEN",
+    "precisão",
+    "sentido legal",
+    "artigo",
+    "parágrafo",
+    "Lei Federal",
+    "jargões",
+    "órgão competente",
+    "canal de atendimento",
+    "dias corridos ou úteis",
+    "organizações sociais parceiras",
+    "despacho",
+    "notificação",
+    "pessoa jurídica",
+    "leiaute",
+    "objetiva",
+    "caput"
+  ],
+  "comentario": "Entendi que quando mandam eu fazer alguma coisa tem que mostrar o que fazer, o prazo e o que acontece se eu não fizer. Também entendi que a Secretaria faz um relatório todo ano. Mas o texto é comprido e fica falando de artigo e parágrafo, e eu me perdi. Não sei o que é SAAE nem IAPEN, nem jargão. Essa parte dos 10 dias eu li que não está claro, então também não sei. A parte das empresas e do artigo 7º eu não entendi nada, desisti de ler ali. Também não sei qual é esse órgão competente, então não sei para onde ligar se tiver dúvida."
+}

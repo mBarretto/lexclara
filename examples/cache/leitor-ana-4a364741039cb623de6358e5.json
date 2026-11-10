@@ -1,0 +1,35 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 0,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 1,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 4,
+      "escolha": 1,
+      "confianca": "media"
+    }
+  ],
+  "palavras_dificeis": [
+    "regime próprio de previdência",
+    "artigo 3º, parágrafo 1º",
+    "prova de vida"
+  ],
+  "comentario": "O texto é claro na maior parte. Fiquei um pouco em dúvida se a regra do envio eletrônico ou pelo correio vale só para licenças e alvarás. O texto fala só desse aviso, então entendi que é só para ele, mas não está dito com todas as letras que os outros avisos ficam de fora. Também não sei o que é exatamente o 'regime próprio de previdência', e o próprio texto diz que a lei não explica. As perguntas citam o 'art. 4º', mas o texto não diz em nenhum momento que está falando desse artigo. Achei estranho ele dizer várias vezes que algo 'ainda não está definido' sem dizer quem vai definir."
+}

@@ -1,0 +1,64 @@
+{
+  "perguntas": [
+    {
+      "pergunta": "Segundo o despacho, por que o pedido de alvará de construção está parado?",
+      "alternativas": [
+        "Porque falta apenas a ART/RRT do responsável técnico.",
+        "Porque falta a ART/RRT do responsável técnico e a área construída no projeto é diferente da área que consta na matrícula do imóvel.",
+        "Porque o pedido de alvará foi negado de forma definitiva.",
+        "Porque há apenas uma diferença entre a área do projeto e a área da matrícula do imóvel."
+      ],
+      "correta": 1,
+      "dispositivo": "Parágrafo 3 (\"Em análise ao requerimento epigrafado...\")",
+      "por_que_importa": "O cidadão precisa saber que há duas pendências, e não uma. Se resolver só uma, o processo continua parado. Também precisa entender que \"sobrestado\" significa suspenso, e não negado. Palavras como \"sobrestado\" e \"epigrafado\" dificultam essa compreensão."
+    },
+    {
+      "pergunta": "Qual é o prazo para resolver as pendências?",
+      "alternativas": [
+        "30 dias contados a partir de 10 de novembro de 2026, data do despacho.",
+        "10 dias contados a partir do dia em que o interessado toma conhecimento do despacho.",
+        "30 dias contados a partir do dia em que o interessado toma conhecimento do despacho.",
+        "60 dias contados a partir do dia em que o interessado toma conhecimento do despacho."
+      ],
+      "correta": 2,
+      "dispositivo": "Parágrafo 4 (\"no prazo de 30 (trinta) dias contados da ciência deste\")",
+      "por_que_importa": "O prazo começa quando o interessado toma conhecimento do despacho (a \"ciência\"), e não na data escrita no fim do documento. Confundir essas duas datas pode levar a pessoa a perder o prazo ou a calcular errado o tempo que tem. O texto não diz se os 30 dias são corridos ou úteis. Esse ponto não está explícito no despacho."
+    },
+    {
+      "pergunta": "O que o interessado pode fazer para resolver a diferença entre a área do projeto e a área da matrícula?",
+      "alternativas": [
+        "Corrigir o projeto ou averbar (registrar) a área no Cartório de Registro de Imóveis. Basta uma das duas opções.",
+        "Corrigir o projeto e também averbar a área no Cartório. As duas providências são obrigatórias.",
+        "Apenas averbar a área no Cartório. Corrigir o projeto não resolve.",
+        "Nada, porque a própria Prefeitura vai pedir ao Cartório a correção da matrícula."
+      ],
+      "correta": 0,
+      "dispositivo": "Parágrafo 4 (\"mediante juntada da documentação faltante e retificação do projeto ou averbação da área junto ao Cartório de Registro de Imóveis\")",
+      "por_que_importa": "O texto usa \"ou\", então há duas formas de resolver a diferença de área. A leitura mais natural é que a entrega da ART/RRT é obrigatória, e que para a área basta escolher entre corrigir o projeto ou averbar no Cartório. Mas a frase junta \"e\" e \"ou\" na mesma sequência, o que pode gerar dúvida. Reescrever em itens separados deixaria isso claro."
+    },
+    {
+      "pergunta": "Quem deve tomar as providências para resolver as pendências?",
+      "alternativas": [
+        "O Setor de Aprovação de Projetos, que vai buscar os documentos que faltam.",
+        "O Cartório de Registro de Imóveis, que vai enviar a matrícula corrigida à Prefeitura.",
+        "O interessado, ou seja, quem pediu o alvará de construção residencial.",
+        "Ninguém precisa agir, porque o processo volta a andar sozinho depois de 30 dias."
+      ],
+      "correta": 2,
+      "dispositivo": "Parágrafos 2 e 4 (\"Interessado: Requerente do Alvará...\" e \"Fica o interessado notificado para... sanar as pendências\")",
+      "por_que_importa": "A responsabilidade de agir é de quem fez o pedido. Se o cidadão achar que a Prefeitura ou o Cartório vão resolver por conta própria, ele não fará nada e o prazo vai correr contra ele."
+    },
+    {
+      "pergunta": "O que acontece se o interessado não resolver as pendências dentro do prazo?",
+      "alternativas": [
+        "Ele paga uma multa, e o processo continua em análise.",
+        "O processo é arquivado.",
+        "O prazo é prorrogado automaticamente por mais 30 dias.",
+        "A obra é embargada e o imóvel precisa ser demolido."
+      ],
+      "correta": 1,
+      "dispositivo": "Parágrafo 4 (\"sob pena de arquivamento do processo, nos termos do art. 40 da Lei nº 9.784/1999\")",
+      "por_que_importa": "A única consequência prevista no despacho é o arquivamento do processo. O texto não fala em multa, prorrogação automática nem demolição. O cidadão precisa saber o risco real para decidir agir a tempo. A expressão \"sob pena de\" pode não ser entendida por todos."
+    }
+  ]
+}

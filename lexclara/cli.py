@@ -90,7 +90,7 @@ def _unit_report(name, official, tec, ver, comp) -> list[str]:
         out.append(f"- Round {i}: verdict **{v.veredito}** — {len(v.atomos)} normative propositions, "
                    f"{len(changed)} altered or omitted, {len(v.acrescimos)} unsupported additions.")
         for a in changed:
-            out.append(f"  - {a.status}: {a.tipo} ({a.dispositivo}) — {a.enunciado}. {a.comentario}")
+            out.append(f"  - {a.status}: {a.tipo} ({a.dispositivo}) — {a.enunciado.rstrip('.')}. {a.comentario}")
         for x in v.acrescimos:
             out.append(f"  - addition: {x}")
     out += ["", "Final version:", "", "> " + agents.render_cidada(ver.final.versao).replace("\n", "\n> "), "",

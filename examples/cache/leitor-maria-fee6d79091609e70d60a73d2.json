@@ -1,0 +1,51 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 1,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 0,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 2,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 4,
+      "escolha": 1,
+      "confianca": "alta"
+    }
+  ],
+  "palavras_dificeis": [
+    "Alvará",
+    "despacho",
+    "ART/RRT",
+    "Anotação de Responsabilidade Técnica",
+    "Registro de Responsabilidade Técnica",
+    "responsável técnico",
+    "matrícula do imóvel",
+    "averbação",
+    "Cartório de Registro de Imóveis",
+    "arquivado",
+    "arquivamento",
+    "projeto arquitetônico",
+    "aplicada subsidiariamente",
+    "de forma complementar",
+    "sobrestado",
+    "retificação",
+    "dias corridos ou úteis",
+    "Lei nº 9.784",
+    "processo"
+  ],
+  "comentario": "Entendi que tem dois problemas e que eu tenho 30 dias pra resolver, senão o processo é arquivado. Mas não sei o que é essa ART/RRT nem onde arrumo isso. Também não entendi o que é averbação nem matrícula do imóvel. Achei que posso escolher entre corrigir o projeto ou ir no cartório, mas não tenho certeza. O texto não diz onde entregar os papéis, e eu não sei se os 30 dias contam sábado e domingo. A parte da lei e do 'complementar' eu pulei, não entendi nada. Arquivado quer dizer que eu perco tudo? Ia ter que pedir ajuda pra minha filha ou ir lá na prefeitura perguntar."
+}

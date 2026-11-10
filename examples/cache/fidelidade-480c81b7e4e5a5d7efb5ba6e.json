@@ -1,0 +1,74 @@
+{
+  "atomos": [
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O Município notificará previamente o usuário sobre o vencimento de licenças e alvarás.",
+      "dispositivo": "Art. 4º, caput, I",
+      "status": "preservado",
+      "evidencia": "O Município tem a obrigação de avisar você antes, em três casos. Primeiro caso: quando sua licença ou seu alvará estiver perto de vencer.",
+      "comentario": "Sujeito, força obrigatória e objeto foram mantidos."
+    },
+    {
+      "tipo": "prazo",
+      "enunciado": "A notificação sobre vencimento de licenças e alvarás deve ser feita com antecedência mínima de 30 dias.",
+      "dispositivo": "Art. 4º, I",
+      "status": "preservado",
+      "evidencia": "Esse aviso deve ser feito pelo menos 30 dias antes do vencimento. A lei não diz se esses 30 dias contam a partir do envio ou do recebimento do aviso.",
+      "comentario": "O prazo mínimo foi mantido. A versão também aponta, corretamente, que o texto oficial não diz se o marco é o envio ou o recebimento."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O Município notificará previamente o usuário sobre prazos de exigências em aberto.",
+      "dispositivo": "Art. 4º, caput, II",
+      "status": "preservado",
+      "evidencia": "Segundo caso: quando você tiver uma exigência ainda não cumprida e houver um prazo para cumpri-la.",
+      "comentario": "Mantido. A versão informa corretamente que não há antecedência mínima fixada. No texto oficial, falta pontuação ao final do inciso II, um problema formal que não afeta o sentido."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O Município notificará previamente o usuário sobre recadastramento e prova de vida de aposentados e pensionistas do regime próprio de previdência.",
+      "dispositivo": "Art. 4º, caput, III",
+      "status": "preservado",
+      "evidencia": "Terceiro caso: quando houver recadastramento ou prova de vida, se você for aposentado ou pensionista do regime próprio de previdência.",
+      "comentario": "Mantido. A versão informa corretamente que não há antecedência mínima fixada."
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "A notificação do inciso I será enviada preferencialmente por meio eletrônico.",
+      "dispositivo": "Art. 4º, parágrafo único",
+      "status": "preservado",
+      "evidencia": "O aviso sobre licenças e alvarás deve ser enviado, de preferência, por meio eletrônico.",
+      "comentario": "O caráter preferencial e a restrição ao inciso I foram mantidos."
+    },
+    {
+      "tipo": "direito",
+      "enunciado": "O usuário tem o direito de optar pelo recebimento da notificação do inciso I por via postal.",
+      "dispositivo": "Art. 4º, parágrafo único",
+      "status": "preservado",
+      "evidencia": "Mas você tem o direito de escolher receber esse aviso pelo correio. A lei não explica como fazer essa escolha.",
+      "comentario": "Mantido. A versão aponta, corretamente, que o texto oficial não regula a forma de exercer a opção."
+    },
+    {
+      "tipo": "remissao",
+      "enunciado": "A notificação do inciso I deve observar o § 1º do art. 3º: nas comunicações que impuserem obrigação ao usuário, devem constar, em destaque, o que deve ser feito, o prazo e as consequências do descumprimento.",
+      "dispositivo": "Art. 4º, parágrafo único",
+      "status": "preservado",
+      "evidencia": "Esse aviso também precisa seguir outra regra desta lei (artigo 3º, parágrafo 1º). Por essa regra, toda comunicação que obriga você a fazer algo deve mostrar, em destaque: o que você precisa fazer, qual é o prazo e o que acontece se você não fizer.",
+      "comentario": "A remissão e o conteúdo do § 1º do art. 3º foram reproduzidos com a condição ('que obriga você a fazer algo'). Há uma ressalva: não está claro se o aviso de vencimento de licença 'impõe obrigação' ao usuário. Essa ambiguidade do texto oficial poderia ter sido sinalizada."
+    },
+    {
+      "tipo": "definicao",
+      "enunciado": "Usuário é a pessoa física ou jurídica que se beneficia ou utiliza, efetiva ou potencialmente, de serviço público municipal (art. 2º, III, aplicável ao art. 4º).",
+      "dispositivo": "Art. 2º, III c/c Art. 4º, caput",
+      "status": "preservado",
+      "evidencia": "E as pessoas e empresas que usam serviços do Município",
+      "comentario": "Simplificação aceitável. O usuário 'potencial' não é mencionado, mas isso não altera os deveres previstos no art. 4º."
+    }
+  ],
+  "acrescimos": [
+    "Glossário: 'Prova de vida: procedimento para confirmar que o aposentado ou pensionista está vivo'. A definição não consta do texto oficial. É explicativa e não induz a erro.",
+    "Glossário: 'Recadastramento: atualização dos seus dados no cadastro'. A definição não consta do texto oficial. É explicativa e não induz a erro.",
+    "Glossário: 'Meio eletrônico: forma digital de envio'. A definição não consta do texto oficial. É explicativa e não induz a erro."
+  ],
+  "veredito": "fiel_com_ressalvas"
+}

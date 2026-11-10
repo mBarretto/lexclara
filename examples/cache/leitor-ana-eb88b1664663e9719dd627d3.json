@@ -1,0 +1,43 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 1,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 2,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 0,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 4,
+      "escolha": 1,
+      "confianca": "alta"
+    }
+  ],
+  "palavras_dificeis": [
+    "epigrafado",
+    "ART/RRT",
+    "sobrestado",
+    "feito",
+    "ciência deste",
+    "supramencionadas",
+    "juntada",
+    "averbação",
+    "matrícula do imóvel",
+    "aplicada subsidiariamente",
+    "sob pena de"
+  ],
+  "comentario": "Entendi que faltam documentos e que a área do projeto não bate com a da matrícula, e que eu teria 30 dias para resolver, senão o processo é arquivado. Mas não sei o que é ART/RRT nem o que significa 'sobrestado' — deduzi que é 'parado'. 'Contados da ciência deste' me deixou na dúvida se os 30 dias começam na data do despacho ou quando a pessoa recebe; acho que é quando recebe. Sobre corrigir o projeto 'ou' averbar no cartório, entendi que basta uma das duas, mas não tenho certeza, e não sei bem o que é averbação. A citação da lei 'aplicada subsidiariamente' não ficou clara para mim."
+}

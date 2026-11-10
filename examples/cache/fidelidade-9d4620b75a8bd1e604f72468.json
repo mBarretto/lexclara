@@ -1,0 +1,92 @@
+{
+  "atomos": [
+    {
+      "tipo": "competencia",
+      "enunciado": "O Setor de Aprovação de Projetos analisou o requerimento e emite o despacho de exigência.",
+      "dispositivo": "Assinatura (Garça, 10 de novembro de 2026. Setor de Aprovação de Projetos)",
+      "status": "preservado",
+      "evidencia": "O Setor de Aprovação de Projetos analisou o pedido e encontrou dois problemas.",
+      "comentario": "O sujeito foi mantido. A data do despacho (10/11/2026) não aparece, mas o prazo não conta dela, e sim da ciência. Por isso a falta não altera direitos."
+    },
+    {
+      "tipo": "definicao",
+      "enunciado": "O interessado é o requerente do Alvará de Construção Residencial.",
+      "dispositivo": "Interessado",
+      "status": "preservado",
+      "evidencia": "Quem é afetado: A pessoa que pediu à Prefeitura de Garça o Alvará de Construção Residencial neste processo.",
+      "comentario": ""
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "Constatou-se a ausência da ART/RRT do responsável técnico.",
+      "dispositivo": "Parágrafo 1º (fundamentação)",
+      "status": "preservado",
+      "evidencia": "Primeiro problema: falta a ART ou o RRT do profissional responsável pela obra.",
+      "comentario": ""
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "Constatou-se divergência entre a área construída declarada no projeto arquitetônico e a área constante da matrícula do imóvel.",
+      "dispositivo": "Parágrafo 1º (fundamentação)",
+      "status": "preservado",
+      "evidencia": "Segundo problema: o tamanho da área construída no projeto é diferente do tamanho que aparece na matrícula do imóvel.",
+      "comentario": ""
+    },
+    {
+      "tipo": "sancao",
+      "enunciado": "Em razão das pendências, o processo encontra-se sobrestado (suspenso).",
+      "dispositivo": "Parágrafo 1º (fundamentação)",
+      "status": "preservado",
+      "evidencia": "Por causa desses problemas, a análise do seu pedido está parada.",
+      "comentario": "O resumo inicial atribui a paralisação apenas à falta de documentos (\"porque faltam documentos\"). Isso deixa de fora a divergência de área. O corpo do texto corrige a imprecisão."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O interessado deve sanar as pendências mediante juntada da documentação faltante (ART/RRT).",
+      "dispositivo": "Parágrafo 2º",
+      "status": "preservado",
+      "evidencia": "Para resolver, você precisa entregar o documento que falta.",
+      "comentario": ""
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O interessado deve resolver a divergência de área por retificação do projeto ou por averbação da área no Cartório de Registro de Imóveis (alternativas).",
+      "dispositivo": "Parágrafo 2º",
+      "status": "preservado",
+      "evidencia": "Isso pode ser feito de dois jeitos: corrigir o projeto ou registrar a área certa no Cartório de Registro de Imóveis.",
+      "comentario": "A redação oficial (\"juntada da documentação faltante e retificação do projeto ou averbação da área\") admite, em tese, outra leitura sintática: (juntada e retificação) ou averbação. A versão cidadã adotou a leitura mais razoável, coerente com as duas pendências descritas. Ainda assim, a ambiguidade existe e não foi sinalizada."
+    },
+    {
+      "tipo": "prazo",
+      "enunciado": "O prazo para sanar as pendências é de 30 dias, contados da ciência do despacho.",
+      "dispositivo": "Parágrafo 2º",
+      "status": "preservado",
+      "evidencia": "Você tem 30 dias para resolver tudo. O prazo começa a contar quando você recebe ou toma conhecimento deste aviso.",
+      "comentario": "A versão cidadã informa corretamente que o despacho não diz se os dias são corridos ou úteis."
+    },
+    {
+      "tipo": "sancao",
+      "enunciado": "Se as pendências não forem sanadas no prazo, o processo será arquivado (sob pena de arquivamento).",
+      "dispositivo": "Parágrafo 2º",
+      "status": "preservado",
+      "evidencia": "Se você não resolver no prazo, a Prefeitura vai arquivar o processo.",
+      "comentario": "\"Sob pena de arquivamento\" virou afirmação categórica (\"vai arquivar\"). A consequência anunciada é a mesma, e a mudança é aceitável como simplificação."
+    },
+    {
+      "tipo": "remissao",
+      "enunciado": "O fundamento é o art. 40 da Lei nº 9.784, de 29 de janeiro de 1999, aplicada subsidiariamente.",
+      "dispositivo": "Parágrafo 2º",
+      "status": "preservado",
+      "evidencia": "A Prefeitura se baseia no artigo 40 da Lei federal nº 9.784, de 1999. Essa lei é usada como complemento às regras do Município.",
+      "comentario": "O dia e o mês da lei foram omitidos, o que não prejudica a identificação. \"Complemento às regras do Município\" é interpretação de \"subsidiariamente\": o despacho não diz a que normas a lei é subsidiária."
+    }
+  ],
+  "acrescimos": [
+    "Resumo inicial: \"parou a análise [...] porque faltam documentos\". A causa fica incompleta, pois a divergência de área não é falta de documento.",
+    "Glossário: a ART é definida como documento de engenheiro e o RRT como documento de arquiteto. A distinção não consta do texto oficial e é conhecimento externo. A ART também abrange outros profissionais do sistema CREA.",
+    "\"Essa lei é usada como complemento às regras do Município\": o texto oficial diz apenas \"aplicada subsidiariamente\", sem indicar a quais normas.",
+    "\"Registrar a área certa\": o texto oficial fala em \"averbação da área\" e não afirma qual das áreas é a correta.",
+    "Glossário: as definições de \"Responsável técnico\" (\"responde pelo projeto e pela obra\") e de \"Arquivamento\" (\"encerrado e guardado\") vêm de conhecimento externo. São plausíveis, mas não constam do despacho."
+  ],
+  "veredito": "fiel_com_ressalvas"
+}

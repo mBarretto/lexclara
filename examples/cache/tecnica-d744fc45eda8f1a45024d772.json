@@ -1,0 +1,66 @@
+{
+  "problemas": [
+    {
+      "regra": "Lei 15.263/2025, art. 5º",
+      "trecho": "Em análise ao requerimento epigrafado, verificou-se a ausência da ART/RRT do responsável técnico, bem como divergência entre a área construída declarada no projeto arquitetônico e aquela constante da matrícula do imóvel, razão pela qual o feito encontra-se sobrestado.",
+      "problema": "A informação principal não vem primeiro. O destinatário só descobre no último parágrafo o que deve fazer, em que prazo e o que acontece se não fizer. O texto começa pelo histórico da análise.",
+      "sugestao": "Abrir com a decisão: o processo está suspenso por duas pendências. Em seguida, listar o que fazer, o prazo e a consequência."
+    },
+    {
+      "regra": "Lei 15.263/2025, art. 5º",
+      "trecho": "verificou-se",
+      "problema": "A voz passiva com 'se' esconde quem fez a análise e quem constatou as pendências.",
+      "sugestao": "Usar ordem direta e sujeito explícito: 'O Setor de Aprovação de Projetos analisou o seu pedido e encontrou duas pendências'."
+    },
+    {
+      "regra": "Lei 13.460/2017, art. 5º, XIV",
+      "trecho": "ART/RRT",
+      "problema": "As siglas aparecem sem o nome por extenso. O cidadão pode não saber que documento precisa providenciar.",
+      "sugestao": "Escrever por extenso: 'ART (Anotação de Responsabilidade Técnica) ou RRT (Registro de Responsabilidade Técnica)'."
+    },
+    {
+      "regra": "Lei 15.263/2025, art. 5º",
+      "trecho": "requerimento epigrafado",
+      "problema": "O jargão 'epigrafado' significa 'indicado no título' e é desconhecido do público geral.",
+      "sugestao": "Substituir por 'o seu pedido de Alvará de Construção Residencial'."
+    },
+    {
+      "regra": "Lei 15.263/2025, art. 5º",
+      "trecho": "o feito encontra-se sobrestado",
+      "problema": "'Feito' (processo) e 'sobrestado' (suspenso) são termos jurídicos sem explicação. Eles escondem a informação de que a análise está parada.",
+      "sugestao": "Escrever: 'a análise do processo está suspensa até que as pendências sejam resolvidas'."
+    },
+    {
+      "regra": "Lei 15.263/2025, art. 5º",
+      "trecho": "Fica o interessado notificado para, no prazo de 30 (trinta) dias contados da ciência deste, sanar as pendências supramencionadas, mediante juntada da documentação faltante e retificação do projeto ou averbação da área junto ao Cartório de Registro de Imóveis, sob pena de arquivamento do processo, nos termos do art. 40 da Lei nº 9.784, de 29 de janeiro de 1999, aplicada subsidiariamente.",
+      "problema": "Uma única frase muito longa reúne prazo, várias providências, consequência e fundamento legal. Também traz nominalizações ('juntada', 'retificação', 'averbação') que escondem quem deve agir.",
+      "sugestao": "Dividir em frases curtas e listar as providências em itens numerados, com verbos dirigidos ao destinatário: apresentar, corrigir, averbar."
+    },
+    {
+      "regra": "Lei 15.263/2025, art. 5º",
+      "trecho": "supramencionadas, mediante juntada da documentação faltante",
+      "problema": "'Supramencionadas', 'juntada' e 'documentação faltante' são vagos ou técnicos. O cidadão precisa voltar ao parágrafo anterior para saber qual documento falta.",
+      "sugestao": "Nomear diretamente o documento faltante (a ART ou o RRT) dentro do item correspondente."
+    },
+    {
+      "regra": "Lei 15.263/2025, art. 5º",
+      "trecho": "retificação do projeto ou averbação da área junto ao Cartório de Registro de Imóveis",
+      "problema": "'Retificação' e 'averbação' não são explicados. O texto também é ambíguo: a construção 'juntada ... e retificação ... ou averbação' sugere que retificar o projeto e averbar a área são alternativas, mas a redação não deixa isso inequívoco.",
+      "sugestao": "Explicar os termos entre parênteses. O autor deve confirmar se são de fato alternativas. Se forem, apresentá-las como opções a) e b)."
+    },
+    {
+      "regra": "Lei 15.263/2025, art. 5º",
+      "trecho": "aplicada subsidiariamente",
+      "problema": "O termo jurídico 'subsidiariamente' aparece sem explicação.",
+      "sugestao": "Acrescentar uma explicação breve: 'aplicada de forma subsidiária, isto é, para suprir o que as normas municipais não regulam'."
+    },
+    {
+      "regra": "Lei 13.460/2017",
+      "trecho": "sanar as pendências supramencionadas, mediante juntada da documentação faltante",
+      "problema": "O despacho não informa onde nem como entregar os documentos, nem um canal para dúvidas. Sem isso, o cidadão não consegue usar a informação para cumprir a exigência.",
+      "sugestao": "Incluir o local ou meio de entrega e um contato do setor. Esses dados devem ser fornecidos pelo autor, pois não constam do texto oficial."
+    }
+  ],
+  "redacao_sugerida": "DESPACHO – EXIGÊNCIA Nº 000/2026 – PROCESSO ADMINISTRATIVO Nº 0000/2026\n\nInteressado: Requerente do Alvará de Construção Residencial.\n\nO Setor de Aprovação de Projetos analisou o seu pedido de Alvará de Construção Residencial e encontrou duas pendências. Por isso, a análise do processo está suspensa até que elas sejam resolvidas.\n\nVocê tem 30 (trinta) dias, contados da data em que tomar ciência deste despacho, para resolver as duas pendências abaixo:\n\n1. Apresentar a ART (Anotação de Responsabilidade Técnica) ou o RRT (Registro de Responsabilidade Técnica) do responsável técnico. Esse documento não foi entregue.\n\n2. Corrigir a diferença entre a área construída informada no projeto arquitetônico e a área que consta na matrícula do imóvel. Para isso, você pode: a) retificar (corrigir) o projeto; ou b) averbar (registrar) a área construída na matrícula do imóvel, no Cartório de Registro de Imóveis.\n\nSe as pendências não forem resolvidas nesse prazo, o processo será arquivado. É o que determina o art. 40 da Lei nº 9.784, de 29 de janeiro de 1999, aplicada de forma subsidiária, isto é, para suprir o que as normas municipais não regulam.\n\n[Indicar onde e como entregar os documentos e um contato do setor para dúvidas.]\n\nGarça, 10 de novembro de 2026.\n\nSetor de Aprovação de Projetos.\n\n(Texto fictício, escrito apenas para demonstrar o LexClara.)",
+  "observacao": "A nova redação mantém o número do processo, o prazo de 30 dias, a consequência e o fundamento legal, mas coloca a decisão e as providências primeiro. Confirme se retificar o projeto e averbar a área são alternativas e preencha o trecho entre colchetes com o local de entrega e o contato, que não constam do original. Teste a compreensão com alguns requerentes antes de adotar o modelo."
+}

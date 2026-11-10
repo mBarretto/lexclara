@@ -1,0 +1,36 @@
+{
+  "problemas": [
+    {
+      "regra": "LC 95/1998, art. 11, II, b",
+      "trecho": "O Município notificará previamente o usuário acerca de:",
+      "problema": "\"Previamente\" não diz em relação a quê nem com quanta antecedência. O inciso I fixa 30 dias, mas os incisos II e III não têm prazo. Fica ambíguo se a notificação deve ocorrer antes do fim do prazo da exigência, antes do início do recadastramento ou antes do prazo final da prova de vida, e com quanta antecedência.",
+      "sugestao": "O autor deve decidir o marco e a antecedência para os incisos II e III, como já fez no inciso I. A revisão não fixa prazo porque o texto oficial não o define."
+    },
+    {
+      "regra": "LC 95/1998, art. 11, I, a, e II, b",
+      "trecho": "II – prazos de exigências em aberto",
+      "problema": "\"Em aberto\" é expressão coloquial e imprecisa. Não fica claro se abrange só as exigências que o usuário ainda deve cumprir ou também as que aguardam análise da Administração. Também não está claro se a notificação é sobre o prazo em si ou sobre o fim próximo do prazo.",
+      "sugestao": "Definir o alcance, por exemplo \"prazos para cumprir exigências pendentes\", se essa for a intenção. A redação sugerida mantém o termo original porque a escolha da leitura cabe ao autor."
+    },
+    {
+      "regra": "LC 95/1998, art. 11, II, a",
+      "trecho": "O Município notificará",
+      "problema": "O art. 1º usa \"órgãos e entidades da Administração Pública Municipal direta e indireta, inclusive o SAAE e o IAPEN\", e este artigo usa \"o Município\". O recadastramento e a prova de vida do regime próprio costumam caber ao IAPEN, que é entidade com personalidade jurídica própria. Fica ambíguo se a obrigação alcança as entidades da administração indireta.",
+      "sugestao": "Usar ao longo do texto a mesma expressão do art. 1º, se a intenção for incluir a administração indireta. Como isso altera o alcance, a decisão cabe ao autor."
+    },
+    {
+      "regra": "LC 95/1998, art. 11, I, a",
+      "trecho": "acerca de",
+      "problema": "A locução é mais formal do que o necessário. A palavra de uso comum é \"sobre\".",
+      "sugestao": "Substituir por \"sobre\"."
+    },
+    {
+      "regra": "LC 95/1998, art. 11, I, b e c",
+      "trecho": "ressalvado o direito do usuário de optar pelo recebimento por via postal, observado o disposto no § 1º do art. 3º",
+      "problema": "A frase encadeia duas orações reduzidas (\"ressalvado\", \"observado\") e esconde quem age. Isso dificulta a leitura e afasta a ordem direta.",
+      "sugestao": "Dar ao usuário a função de sujeito: \"o usuário poderá optar por recebê-la por via postal\"."
+    }
+  ],
+  "redacao_sugerida": "Art. 4º O Município notificará previamente o usuário sobre:\nI – vencimento de licenças e alvarás, com antecedência mínima de 30 dias;\nII – prazos de exigências em aberto;\nIII – recadastramento e prova de vida de aposentados e pensionistas do regime próprio de previdência.\nParágrafo único. A notificação de que trata o inciso I do caput deste artigo será enviada preferencialmente por meio eletrônico, observado o disposto no § 1º do art. 3º, e o usuário poderá optar por recebê-la por via postal.",
+  "observacao": "A nova redação só ajusta palavras e ordem direta, sem alterar o sentido jurídico. Ficam para decisão do autor três pontos ambíguos: a antecedência dos incisos II e III, o alcance de \"exigências em aberto\" e se \"o Município\" inclui as entidades da administração indireta, como o IAPEN."
+}

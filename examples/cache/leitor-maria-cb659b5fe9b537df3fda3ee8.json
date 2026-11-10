@@ -1,0 +1,56 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 2,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 1,
+      "escolha": -1,
+      "confianca": "baixa"
+    },
+    {
+      "pergunta": 2,
+      "escolha": -1,
+      "confianca": "baixa"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 0,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 4,
+      "escolha": -1,
+      "confianca": "baixa"
+    }
+  ],
+  "palavras_dificeis": [
+    "Art.",
+    "§",
+    "redigidas",
+    "observadas as técnicas",
+    "sem prejuízo da precisão técnica",
+    "sentido jurídico do ato",
+    "vedada",
+    "jargões",
+    "termos estrangeiros",
+    "equivalente",
+    "órgão competente",
+    "disponibilizar",
+    "canal de atendimento",
+    "fará publicar",
+    "relatório de cumprimento",
+    "impuserem obrigação",
+    "usuário",
+    "em destaque",
+    "descumprimento",
+    "O disposto no",
+    "aplica-se",
+    "organizações sociais parceiras",
+    "Lei Federal nº 15.263",
+    "caput"
+  ],
+  "comentario": "A primeira frase é comprida demais, eu me perdi no meio e tive que voltar várias vezes. Não sei o que é 'vedada' nem 'jargões', então não sei se pode ou não usar palavra de fora. Esse negócio dos 10 dias eu não entendi: 10 dias pra quê? Pra me responder? Pra abrir o atendimento? A parte do relatório eu peguei: a Secretaria de Administração faz todo ano. A parte de baixo, quando me mandam fazer alguma coisa, entendi que tem que mostrar o que fazer, o prazo e o que acontece se eu não fizer. O último pedaço fala de um tal 'art. 7º' que eu nem tenho aqui, então não sei de que regra está falando. E não sei o que são esses símbolos § e 'Art.'."
+}

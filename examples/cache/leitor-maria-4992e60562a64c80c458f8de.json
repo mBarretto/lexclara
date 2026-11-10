@@ -1,0 +1,46 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 0,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 1,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 2,
+      "escolha": -1,
+      "confianca": "baixa"
+    },
+    {
+      "pergunta": 3,
+      "escolha": -1,
+      "confianca": "baixa"
+    },
+    {
+      "pergunta": 4,
+      "escolha": -1,
+      "confianca": "baixa"
+    }
+  ],
+  "palavras_dificeis": [
+    "notificará previamente",
+    "acerca de",
+    "alvarás",
+    "exigências em aberto",
+    "recadastramento",
+    "regime próprio de previdência",
+    "Parágrafo único",
+    "inciso I do caput",
+    "preferencialmente",
+    "meio eletrônico",
+    "ressalvado",
+    "optar",
+    "via postal",
+    "observado o disposto no § 1º do art. 3º"
+  ],
+  "comentario": "Eu entendi que a prefeitura tem que avisar a gente antes, e que para licença é pelo menos 30 dias antes. Mas essa palavra 'alvará' eu não sei bem o que é. Nos outros avisos não vi número de dias, mas não tenho certeza se vale o mesmo. A última parte, com 'inciso', 'caput', 'ressalvado', 'via postal' e esse '§ 1º do art. 3º', eu não consegui entender. Não sei se o aviso vem pelo celular ou pela carta, nem para quais avisos isso vale. A frase é muito comprida e eu me perdi."
+}

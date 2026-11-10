@@ -1,0 +1,38 @@
+{
+  "respostas": [
+    {
+      "pergunta": 0,
+      "escolha": 1,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 1,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 2,
+      "escolha": 0,
+      "confianca": "media"
+    },
+    {
+      "pergunta": 3,
+      "escolha": 2,
+      "confianca": "alta"
+    },
+    {
+      "pergunta": 4,
+      "escolha": 1,
+      "confianca": "alta"
+    }
+  ],
+  "palavras_dificeis": [
+    "averbação",
+    "matrícula do imóvel",
+    "ART/RRT",
+    "responsável técnico",
+    "aplicada subsidiariamente",
+    "sobrestado"
+  ],
+  "comentario": "Entendi bem os dois problemas, o prazo de 30 dias e que o processo será arquivado se nada for feito. Fiquei em dúvida se basta corrigir o projeto ou fazer a averbação. O texto fala em 'dois caminhos', então entendi que basta um, mas não diz isso com todas as letras. Também não sei o que é averbação na prática, nem qual documento entregar, se a ART ou o RRT. Faltou dizer onde e como entregar os documentos e se os 30 dias são corridos ou úteis. A parte da lei aplicada 'de forma complementar' não me disse nada de útil."
+}

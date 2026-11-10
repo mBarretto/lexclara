@@ -1,0 +1,107 @@
+{
+  "atomos": [
+    {
+      "tipo": "obrigacao",
+      "enunciado": "As comunicações oficiais deverão ser redigidas em linguagem simples.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Quando a Prefeitura e seus órgãos mandam uma comunicação oficial para você, devem usar linguagem simples.",
+      "comentario": "A força obrigatória foi mantida. O sujeito 'a Prefeitura e seus órgãos' é mais restrito que o alcance do Art. 1º, que abrange também as entidades da administração indireta, como SAAE e IAPEN. Em 'Quem é afetado', o texto fala em 'órgãos e entidades', o que atenua a diferença."
+    },
+    {
+      "tipo": "remissao",
+      "enunciado": "Na redação devem ser observadas as técnicas previstas no art. 5º da Lei Federal nº 15.263, de 2025.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Eles devem seguir as técnicas do artigo 5º da Lei Federal nº 15.263, de 2025.",
+      "comentario": ""
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "A linguagem simples deve ser aplicada sem prejuízo da precisão técnica e do sentido jurídico do ato.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "O texto precisa ser simples, mas continuar correto e com o mesmo sentido legal.",
+      "comentario": "'Correto' é uma simplificação aceitável de 'precisão técnica'."
+    },
+    {
+      "tipo": "proibicao",
+      "enunciado": "É vedada a utilização de jargões. Não está claro se a condição 'quando houver equivalente em língua portuguesa' também se aplica aos jargões.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "É proibido usar jargões. [...] O texto não deixa claro se a condição de existir palavra em português vale só para as palavras estrangeiras ou também para os jargões.",
+      "comentario": "A versão cidadã apontou a ambiguidade sem escolher uma das leituras, como determinam as regras."
+    },
+    {
+      "tipo": "proibicao",
+      "enunciado": "É vedada a utilização de termos estrangeiros quando houver equivalente em língua portuguesa.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Também é proibido usar palavras estrangeiras quando existe uma palavra em português com o mesmo sentido.",
+      "comentario": "A condição foi mantida."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "O órgão competente deve disponibilizar canal de atendimento para esclarecimento de dúvidas.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "O órgão responsável deve oferecer um canal de atendimento para tirar suas dúvidas.",
+      "comentario": ""
+    },
+    {
+      "tipo": "prazo",
+      "enunciado": "Prazo de 10 dias relacionado ao canal de atendimento. É ambíguo se o prazo se refere à criação do canal ou à resposta às dúvidas, se conta dias corridos ou úteis e qual é o termo inicial.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "O texto fala em prazo de 10 dias, mas não está definido se são 10 dias para criar o canal ou 10 dias para responder às dúvidas. Também não diz se são dias corridos ou dias úteis, nem a partir de quando se conta.",
+      "comentario": "O prazo foi mantido e a ambiguidade foi sinalizada corretamente."
+    },
+    {
+      "tipo": "competencia",
+      "enunciado": "A Secretaria Municipal de Administração fará publicar anualmente relatório de cumprimento desta Lei.",
+      "dispositivo": "Art. 3º, caput",
+      "status": "preservado",
+      "evidencia": "Todo ano, a Secretaria Municipal de Administração deve publicar um relatório que mostra se esta lei está sendo cumprida.",
+      "comentario": "O sujeito, a periodicidade e o objeto foram mantidos."
+    },
+    {
+      "tipo": "condicao",
+      "enunciado": "A regra do § 1º aplica-se às comunicações que impuserem obrigação ao usuário.",
+      "dispositivo": "Art. 3º, § 1º",
+      "status": "preservado",
+      "evidencia": "Se a comunicação mandar você fazer alguma coisa",
+      "comentario": "A condição aparece no corpo do texto. Porém, a frase de abertura ('devem escrever para você de forma clara, com destaque para o que você precisa fazer, até quando...') apresenta o destaque como regra geral, sem essa condição. Isso pode levar o leitor a esperar o destaque em qualquer comunicação."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "Nessas comunicações constarão, em destaque, o que deve ser feito, o prazo e as consequências do descumprimento.",
+      "dispositivo": "Art. 3º, § 1º",
+      "status": "preservado",
+      "evidencia": "ela deve mostrar em destaque três informações: o que você deve fazer, o prazo e o que acontece se você não fizer.",
+      "comentario": ""
+    },
+    {
+      "tipo": "remissao",
+      "enunciado": "O § 2º remete ao § 1º do art. 7º, dispositivo que não existe, porque o art. 7º não tem parágrafos.",
+      "dispositivo": "Art. 3º, § 2º",
+      "status": "preservado",
+      "evidencia": "Mas ele indica o parágrafo 1º do artigo 7º, e o artigo 7º desta lei não tem parágrafos. Por isso, ainda não está definido qual regra vale para essas empresas e organizações.",
+      "comentario": "A remissão quebrada foi sinalizada sem que se presumisse a regra pretendida, como determinam as regras."
+    },
+    {
+      "tipo": "obrigacao",
+      "enunciado": "A regra objeto da remissão aplica-se às empresas contratadas e às organizações sociais parceiras.",
+      "dispositivo": "Art. 3º, § 2º",
+      "status": "preservado",
+      "evidencia": "O parágrafo 2º diz que uma regra vale também para empresas contratadas e organizações sociais parceiras.",
+      "comentario": "Os destinatários foram mantidos. O conteúdo da regra é indeterminado por causa da remissão quebrada."
+    }
+  ],
+  "acrescimos": [
+    "Frase de abertura que apresenta o destaque (o que fazer, prazo e consequências) como característica de toda comunicação, sem a condição de a comunicação impor obrigação ao usuário.",
+    "Uso de 'a Prefeitura e seus órgãos' como sujeito da obrigação de usar linguagem simples, quando o Art. 1º abrange também as entidades da administração indireta (SAAE e IAPEN).",
+    "Definição de 'Organização social parceira' como 'entidade sem fins lucrativos que trabalha junto com a Prefeitura', que não consta do texto oficial. É uma explicação externa, de baixo risco.",
+    "Definições de 'Jargão' e 'Órgão competente', que não constam do texto oficial. São explicações externas, de baixo risco."
+  ],
+  "veredito": "fiel_com_ressalvas"
+}

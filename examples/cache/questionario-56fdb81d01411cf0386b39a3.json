@@ -1,0 +1,64 @@
+{
+  "perguntas": [
+    {
+      "pergunta": "Segundo o art. 4º, quem tem o dever de avisar antes sobre o vencimento de licenças e alvarás, os prazos de exigências em aberto e o recadastramento e a prova de vida?",
+      "alternativas": [
+        "O Município deve avisar o usuário antes, mesmo sem pedido.",
+        "O usuário deve procurar o Município para saber dos prazos.",
+        "O Município pode avisar o usuário, se quiser.",
+        "O Município só avisa o usuário que pedir o aviso."
+      ],
+      "correta": 0,
+      "dispositivo": "Art. 4º, caput",
+      "por_que_importa": "O cidadão precisa saber que a lei põe o dever de avisar no Município. Ele não precisa pedir o aviso, e o aviso não é opcional."
+    },
+    {
+      "pergunta": "Sua licença ou alvará vai vencer. Com quanto tempo de antecedência, no mínimo, o Município deve avisar você?",
+      "alternativas": [
+        "Exatamente 30 dias antes, nem mais nem menos.",
+        "No mínimo 30 dias antes.",
+        "No máximo 30 dias antes.",
+        "No mínimo 10 dias antes."
+      ],
+      "correta": 1,
+      "dispositivo": "Art. 4º, I",
+      "por_que_importa": "O prazo de 30 dias é um mínimo. O aviso pode chegar antes, mas não depois desse prazo. Com isso, o cidadão sabe se o aviso chegou a tempo de renovar o documento."
+    },
+    {
+      "pergunta": "O art. 4º fixa um prazo mínimo de aviso para os prazos de exigências em aberto e para o recadastramento e a prova de vida de aposentados e pensionistas?",
+      "alternativas": [
+        "Sim, os mesmos 30 dias previstos para licenças e alvarás.",
+        "Sim, 10 dias.",
+        "Não. O texto exige que o aviso seja prévio, mas não diz com quanto tempo de antecedência.",
+        "Não. Nesses casos, o Município não precisa avisar."
+      ],
+      "correta": 2,
+      "dispositivo": "Art. 4º, II e III",
+      "por_que_importa": "Só o inciso I tem prazo em dias. Nos incisos II e III, o texto diz apenas \"previamente\" e não define a antecedência. O cidadão não deve contar com um prazo que a lei não fixou."
+    },
+    {
+      "pergunta": "Como deve ser enviado o aviso de vencimento de licença ou alvará?",
+      "alternativas": [
+        "Somente por meio eletrônico, sem outra opção.",
+        "Somente pelo correio.",
+        "De preferência por meio eletrônico, mas o usuário tem o direito de escolher receber pelo correio.",
+        "Pelo meio que o Município escolher, sem direito de escolha do usuário."
+      ],
+      "correta": 2,
+      "dispositivo": "Art. 4º, parágrafo único",
+      "por_que_importa": "O cidadão que não usa ou não confia no meio eletrônico precisa saber que pode escolher receber o aviso pelo correio."
+    },
+    {
+      "pergunta": "A regra sobre a forma de envio (de preferência eletrônica, com direito de escolher o correio) vale para quais avisos do art. 4º?",
+      "alternativas": [
+        "Para os três tipos de aviso do art. 4º.",
+        "Só para o aviso de vencimento de licenças e alvarás.",
+        "Só para o aviso de recadastramento e prova de vida.",
+        "Para todas as comunicações oficiais do Município."
+      ],
+      "correta": 1,
+      "dispositivo": "Art. 4º, parágrafo único",
+      "por_que_importa": "O parágrafo único fala apenas da notificação do inciso I. Para os avisos dos incisos II e III, o texto não diz como devem ser enviados. O cidadão não deve supor que o direito de escolher o correio vale também para esses avisos."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "perguntas": [
+    {
+      "pergunta": "Quando uma comunicação da Prefeitura obriga o cidadão a fazer algo, o que deve aparecer em destaque nessa comunicação?",
+      "alternativas": [
+        "Apenas o prazo para cumprir a obrigação.",
+        "O que deve ser feito, o prazo e o canal de atendimento para tirar dúvidas.",
+        "O que deve ser feito, o prazo e as consequências de não cumprir.",
+        "O que deve ser feito, o prazo e as consequências de não cumprir, mas só se o cidadão pedir essas informações."
+      ],
+      "correta": 2,
+      "dispositivo": "Art. 3º, § 1º",
+      "por_que_importa": "O cidadão precisa saber, sem procurar no meio do texto, o que fazer, até quando e o que acontece se não fizer. O § 1º exige os três itens em destaque, sempre que houver obrigação, sem depender de pedido."
+    },
+    {
+      "pergunta": "A comunicação oficial pode usar uma palavra estrangeira?",
+      "alternativas": [
+        "Não, nunca, em nenhum caso.",
+        "Sim, desde que a palavra seja explicada entre parênteses.",
+        "Não, quando houver uma palavra equivalente em português.",
+        "Sim, o órgão pode escolher livremente, porque a lei só recomenda evitar."
+      ],
+      "correta": 2,
+      "dispositivo": "Art. 3º, caput",
+      "por_que_importa": "A lei proíbe o termo estrangeiro só quando existe equivalente em português. Não é uma proibição total nem uma simples recomendação. Observação: o texto não deixa claro se a condição \"quando houver equivalente em língua portuguesa\" vale também para os jargões ou só para os termos estrangeiros."
+    },
+    {
+      "pergunta": "O caput fala em canal de atendimento para dúvidas \"no prazo de 10 dias\". A que se referem esses 10 dias?",
+      "alternativas": [
+        "O órgão tem 10 dias para responder a cada dúvida do cidadão.",
+        "O cidadão tem 10 dias para enviar sua dúvida depois de receber a comunicação.",
+        "O texto não deixa claro se os 10 dias são para o órgão criar o canal ou para responder às dúvidas, nem a partir de quando são contados.",
+        "O órgão tem 10 dias para corrigir a comunicação que o cidadão não entendeu."
+      ],
+      "correta": 2,
+      "dispositivo": "Art. 3º, caput",
+      "por_que_importa": "O prazo é ambíguo no texto oficial. O cidadão não consegue saber se tem direito a uma resposta em 10 dias nem quando o prazo começa. Isso deve ser corrigido na redação antes da aprovação."
+    },
+    {
+      "pergunta": "Quem deve publicar o relatório sobre o cumprimento desta Lei, e com que frequência?",
+      "alternativas": [
+        "A Secretaria Municipal de Administração, uma vez por ano.",
+        "A Câmara Municipal, uma vez por ano.",
+        "Cada órgão que envia comunicações, a cada 10 dias.",
+        "A Secretaria Municipal de Administração, somente quando houver reclamação."
+      ],
+      "correta": 0,
+      "dispositivo": "Art. 3º, caput",
+      "por_que_importa": "Saber quem publica o relatório e quando permite ao cidadão acompanhar se a lei está sendo cumprida e cobrar o órgão certo."
+    },
+    {
+      "pergunta": "O § 2º diz que uma regra também vale para empresas contratadas e organizações sociais parceiras. Que regra é essa?",
+      "alternativas": [
+        "A regra do § 1º do art. 3º: destacar o que fazer, o prazo e as consequências.",
+        "A regra de usar linguagem simples em todas as comunicações.",
+        "A regra de publicar o relatório anual de cumprimento da Lei.",
+        "Não é possível saber: o § 2º remete ao \"§ 1º do art. 7º\", mas o art. 7º não tem parágrafos."
+      ],
+      "correta": 3,
+      "dispositivo": "Art. 3º, § 2º",
+      "por_que_importa": "A remissão aponta para um dispositivo que não existe no texto. Por isso, nem o cidadão nem as empresas e organizações parceiras sabem que obrigação foi estendida a elas. O erro precisa ser corrigido antes da aprovação."
+    }
+  ]
+}
